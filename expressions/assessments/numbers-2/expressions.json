@@ -5,5 +5,12 @@
     "answer": "a/b",
     "correct": true,
     "timestamp": 1662069092488
+  },
+  {
+    "name": "Distance",
+    "canonical": "Math.abs(a - b)",
+    "answer": "math.abs=a-b",
+    "correct": false,
+    "timestamp": 1662069182396
   }
 ]
