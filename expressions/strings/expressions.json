@@ -12,5 +12,12 @@
     "answer": "foobarfoo + bar",
     "correct": false,
     "timestamp": 1662156678250
+  },
+  {
+    "name": "Concatenate (smoosh) strings",
+    "canonical": "'foobar'",
+    "answer": "foo + bar",
+    "correct": false,
+    "timestamp": 1662156682906
   }
 ]
