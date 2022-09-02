@@ -355,5 +355,19 @@
     "answer": "'a'",
     "correct": false,
     "timestamp": 1662157202053
+  },
+  {
+    "name": "First character",
+    "canonical": "s[0]",
+    "answer": "'a'",
+    "correct": false,
+    "timestamp": 1662157202221
+  },
+  {
+    "name": "First character",
+    "canonical": "s[0]",
+    "answer": "'a'",
+    "correct": false,
+    "timestamp": 1662157202405
   }
 ]
