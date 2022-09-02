@@ -110,5 +110,12 @@
     "answer": "Math.PI * 4",
     "correct": true,
     "timestamp": 1662157305856
+  },
+  {
+    "name": "Seconds in a day",
+    "canonical": "24 * 60 * 60",
+    "answer": "86299 + 1",
+    "correct": false,
+    "timestamp": 1662157336976
   }
 ]
