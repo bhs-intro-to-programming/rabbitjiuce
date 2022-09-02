@@ -509,5 +509,12 @@
     "answer": "\"b\"",
     "correct": false,
     "timestamp": 1662157221005
+  },
+  {
+    "name": "First character",
+    "canonical": "s[0]",
+    "answer": "s",
+    "correct": false,
+    "timestamp": 1662157234294
   }
 ]
