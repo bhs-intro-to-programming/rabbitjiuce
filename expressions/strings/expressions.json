@@ -306,5 +306,19 @@
     "answer": "'a'",
     "correct": false,
     "timestamp": 1662157200645
+  },
+  {
+    "name": "First character",
+    "canonical": "s[0]",
+    "answer": "'a'",
+    "correct": false,
+    "timestamp": 1662157200853
+  },
+  {
+    "name": "First character",
+    "canonical": "s[0]",
+    "answer": "'a'",
+    "correct": false,
+    "timestamp": 1662157201077
   }
 ]
