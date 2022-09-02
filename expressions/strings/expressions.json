@@ -502,5 +502,12 @@
     "answer": "FOO",
     "correct": false,
     "timestamp": 1662157213085
+  },
+  {
+    "name": "First character",
+    "canonical": "s[0]",
+    "answer": "\"b\"",
+    "correct": false,
+    "timestamp": 1662157221005
   }
 ]
