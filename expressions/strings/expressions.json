@@ -264,5 +264,26 @@
     "answer": "'a'",
     "correct": false,
     "timestamp": 1662157199645
+  },
+  {
+    "name": "First character",
+    "canonical": "s[0]",
+    "answer": "'a'",
+    "correct": false,
+    "timestamp": 1662157199805
+  },
+  {
+    "name": "First character",
+    "canonical": "s[0]",
+    "answer": "'a'",
+    "correct": false,
+    "timestamp": 1662157199965
+  },
+  {
+    "name": "First character",
+    "canonical": "s[0]",
+    "answer": "'a'",
+    "correct": false,
+    "timestamp": 1662157200141
   }
 ]
