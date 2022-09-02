@@ -26,5 +26,12 @@
     "answer": "!enoughSleep || eatenEnough",
     "correct": false,
     "timestamp": 1662156202116
+  },
+  {
+    "name": "Super beat?",
+    "canonical": "!enoughSleep && !eatenEnough",
+    "answer": "!enoughSleep || eatenEnough",
+    "correct": false,
+    "timestamp": 1662156210884
   }
 ]
