@@ -12,5 +12,12 @@
     "answer": "7 + 3",
     "correct": true,
     "timestamp": 1662157619541
+  },
+  {
+    "name": "Two plus two",
+    "canonical": "2 + 2",
+    "answer": "2 * 2",
+    "correct": true,
+    "timestamp": 1662157626766
   }
 ]
