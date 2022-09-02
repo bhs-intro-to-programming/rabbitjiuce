@@ -5,5 +5,12 @@
     "answer": "enoughSleep && keepingUp",
     "correct": true,
     "timestamp": 1662155875099
+  },
+  {
+    "name": "Energetic?",
+    "canonical": "enoughSleep && !justWorkedOut",
+    "answer": "enoughSleep  && !justWorkedOut",
+    "correct": true,
+    "timestamp": 1662155895787
   }
 ]
