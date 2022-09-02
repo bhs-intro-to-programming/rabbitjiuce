@@ -222,5 +222,19 @@
     "answer": "'a'",
     "correct": false,
     "timestamp": 1662157195029
+  },
+  {
+    "name": "First character",
+    "canonical": "s[0]",
+    "answer": "'a'",
+    "correct": false,
+    "timestamp": 1662157195205
+  },
+  {
+    "name": "First character",
+    "canonical": "s[0]",
+    "answer": "'a'",
+    "correct": false,
+    "timestamp": 1662157198773
   }
 ]
