@@ -75,5 +75,12 @@
     "answer": "86400 * 1",
     "correct": true,
     "timestamp": 1662157742600
+  },
+  {
+    "name": "Minutes in a year",
+    "canonical": "60 * 24 * 365",
+    "answer": "525600 * 1",
+    "correct": true,
+    "timestamp": 1662157771793
   }
 ]
