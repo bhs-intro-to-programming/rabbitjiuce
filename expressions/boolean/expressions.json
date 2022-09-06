@@ -47,5 +47,12 @@
     "answer": "!fun || tired || frun && tired",
     "correct": false,
     "timestamp": 1662502318924
+  },
+  {
+    "name": "Not feeling it?",
+    "canonical": "!fun || tired",
+    "answer": "!fun || tired || fun && tired",
+    "correct": true,
+    "timestamp": 1662502322180
   }
 ]
