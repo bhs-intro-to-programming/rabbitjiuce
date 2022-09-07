@@ -1,1 +1,1 @@
-const add == (a,v) => a + v;
+const add = (a,v) => a + v;
