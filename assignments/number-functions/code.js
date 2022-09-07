@@ -1,1 +1,1 @@
-const add == (v1, v2) => v1 = v2
+const add == (a, v) => a + v
