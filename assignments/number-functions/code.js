@@ -1,1 +1,1 @@
-add == +
+const add == v1 + v2 
