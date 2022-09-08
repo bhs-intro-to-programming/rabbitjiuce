@@ -40,5 +40,12 @@
     "answer": "1/2",
     "correct": false,
     "timestamp": 1662157878956
+  },
+  {
+    "name": "Remainder",
+    "canonical": "a % b",
+    "answer": "a / b",
+    "correct": false,
+    "timestamp": 1662673662655
   }
 ]
