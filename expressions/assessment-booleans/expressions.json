@@ -61,5 +61,12 @@
     "answer": "!storeOpen || linesTooLong",
     "correct": true,
     "timestamp": 1662675399400
+  },
+  {
+    "name": "Can pay attention?",
+    "canonical": "!hungry && interested",
+    "answer": "!hungry && interested",
+    "correct": true,
+    "timestamp": 1662675418185
   }
 ]
