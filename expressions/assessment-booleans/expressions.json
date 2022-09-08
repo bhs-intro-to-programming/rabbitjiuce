@@ -96,5 +96,12 @@
     "answer": "!afraidOfTheDark && !afraidOfSpiders",
     "correct": true,
     "timestamp": 1662675459169
+  },
+  {
+    "name": "Not feeling it?",
+    "canonical": "!fun || tired",
+    "answer": "!fun || tired || fun && tired",
+    "correct": true,
+    "timestamp": 1662675490866
   }
 ]
