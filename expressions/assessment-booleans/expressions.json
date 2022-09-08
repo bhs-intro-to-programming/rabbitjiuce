@@ -40,5 +40,12 @@
     "answer": "member && !outSick",
     "correct": true,
     "timestamp": 1662675373856
+  },
+  {
+    "name": "Doing well?",
+    "canonical": "enoughSleep && keepingUp",
+    "answer": "enoughSleep && keepingUp",
+    "correct": true,
+    "timestamp": 1662675381776
   }
 ]
