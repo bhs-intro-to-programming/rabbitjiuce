@@ -5,4 +5,4 @@ const divide = (a,v) => a / v
 const mod = (a,v) => a%v 
 const averageOfTwo = (a,v) => a/2 + v/2 
 const averageOfThree = (a,v,c) => (a + c + v) /3 
-const distance = 
+const distance = (a,v) => a - v
