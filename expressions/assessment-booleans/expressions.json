@@ -33,5 +33,12 @@
     "answer": "isSenior || invitedBySenior",
     "correct": true,
     "timestamp": 1662675364015
+  },
+  {
+    "name": "Coming to bookclub?",
+    "canonical": "member && !outSick",
+    "answer": "member && !outSick",
+    "correct": true,
+    "timestamp": 1662675373856
   }
 ]
