@@ -68,5 +68,12 @@
     "answer": "!hungry && interested",
     "correct": true,
     "timestamp": 1662675418185
+  },
+  {
+    "name": "Having fun?",
+    "canonical": "done || !fun",
+    "answer": "!fun || !done",
+    "correct": false,
+    "timestamp": 1662675435786
   }
 ]
