@@ -12,5 +12,12 @@
     "answer": "inTheClass || isProctor",
     "correct": true,
     "timestamp": 1662675282230
+  },
+  {
+    "name": "Dragging?",
+    "canonical": "!enoughSleep && lotsOfWork",
+    "answer": "!enoughSleep && lotsOfWork",
+    "correct": true,
+    "timestamp": 1662675291782
   }
 ]
