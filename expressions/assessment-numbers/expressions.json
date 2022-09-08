@@ -54,5 +54,12 @@
     "answer": "Math.abs (a - b)",
     "correct": true,
     "timestamp": 1662675056962
+  },
+  {
+    "name": "Ratio",
+    "canonical": "a / b",
+    "answer": "a / b",
+    "correct": true,
+    "timestamp": 1662675063953
   }
 ]
