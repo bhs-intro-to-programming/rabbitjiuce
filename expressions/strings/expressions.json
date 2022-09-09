@@ -516,5 +516,12 @@
     "answer": "s",
     "correct": false,
     "timestamp": 1662157234294
+  },
+  {
+    "name": "First character",
+    "canonical": "s[0]",
+    "answer": "foo + bat",
+    "correct": false,
+    "timestamp": 1662759497968
   }
 ]
