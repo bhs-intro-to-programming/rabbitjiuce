@@ -537,5 +537,12 @@
     "answer": "'foo + bar'",
     "correct": false,
     "timestamp": 1662759506136
+  },
+  {
+    "name": "First character",
+    "canonical": "s[0]",
+    "answer": "s",
+    "correct": false,
+    "timestamp": 1662759519064
   }
 ]
