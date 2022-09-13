@@ -215,5 +215,26 @@
     "answer": "'s'.toUpperCase ()",
     "correct": false,
     "timestamp": 1663106881702
+  },
+  {
+    "name": "UPPER CASE",
+    "canonical": "s.toUpperCase()",
+    "answer": "'s'.toUpperCase ()",
+    "correct": false,
+    "timestamp": 1663106881925
+  },
+  {
+    "name": "UPPER CASE",
+    "canonical": "s.toUpperCase()",
+    "answer": "'s'.toUpperCase ()",
+    "correct": false,
+    "timestamp": 1663106882117
+  },
+  {
+    "name": "UPPER CASE",
+    "canonical": "s.toUpperCase()",
+    "answer": "'s'.toUpperCase ()",
+    "correct": false,
+    "timestamp": 1663106882325
   }
 ]
