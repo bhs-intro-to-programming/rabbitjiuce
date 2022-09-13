@@ -40,5 +40,12 @@
     "answer": "24 * 60 * 60",
     "correct": true,
     "timestamp": 1663105763267
+  },
+  {
+    "name": "Sum",
+    "canonical": "a + b",
+    "answer": "a + b",
+    "correct": true,
+    "timestamp": 1663105766927
   }
 ]
