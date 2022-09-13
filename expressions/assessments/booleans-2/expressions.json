@@ -82,5 +82,12 @@
     "answer": "!storeOpen || !isASale",
     "correct": true,
     "timestamp": 1663105952520
+  },
+  {
+    "name": "Energetic?",
+    "canonical": "enoughSleep && !justWorkedOut",
+    "answer": "enoughSleep && !justWorkedOut",
+    "correct": true,
+    "timestamp": 1663105960944
   }
 ]
