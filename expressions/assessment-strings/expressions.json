@@ -96,5 +96,26 @@
     "answer": "'s'.toUpperCase ()",
     "correct": false,
     "timestamp": 1663106878877
+  },
+  {
+    "name": "UPPER CASE",
+    "canonical": "s.toUpperCase()",
+    "answer": "'s'.toUpperCase ()",
+    "correct": false,
+    "timestamp": 1663106879029
+  },
+  {
+    "name": "UPPER CASE",
+    "canonical": "s.toUpperCase()",
+    "answer": "'s'.toUpperCase ()",
+    "correct": false,
+    "timestamp": 1663106879173
+  },
+  {
+    "name": "UPPER CASE",
+    "canonical": "s.toUpperCase()",
+    "answer": "'s'.toUpperCase ()",
+    "correct": false,
+    "timestamp": 1663106879317
   }
 ]
