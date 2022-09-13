@@ -334,5 +334,12 @@
     "answer": "'svalue' .toUpperCase ()",
     "correct": false,
     "timestamp": 1663106902438
+  },
+  {
+    "name": "UPPER CASE",
+    "canonical": "s.toUpperCase()",
+    "answer": "'s' .toUpperCase ()",
+    "correct": false,
+    "timestamp": 1663106917014
   }
 ]
