@@ -33,5 +33,12 @@
     "answer": "!hungry && interested",
     "correct": true,
     "timestamp": 1663105879814
+  },
+  {
+    "name": "Dragging?",
+    "canonical": "!enoughSleep && lotsOfWork",
+    "answer": "!enoughSleep && lotsOfWork",
+    "correct": true,
+    "timestamp": 1663105888135
   }
 ]
