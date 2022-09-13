@@ -446,5 +446,19 @@
     "answer": "'s' .toUpperCase ()",
     "correct": false,
     "timestamp": 1663106929879
+  },
+  {
+    "name": "UPPER CASE",
+    "canonical": "s.toUpperCase()",
+    "answer": "'s' .toUpperCase ()",
+    "correct": false,
+    "timestamp": 1663106930055
+  },
+  {
+    "name": "UPPER CASE",
+    "canonical": "s.toUpperCase()",
+    "answer": "s[0] .toUpperCase ()",
+    "correct": false,
+    "timestamp": 1663106972016
   }
 ]
