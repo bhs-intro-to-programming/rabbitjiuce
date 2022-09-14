@@ -579,5 +579,12 @@
     "answer": "s[1]",
     "correct": false,
     "timestamp": 1663194620964
+  },
+  {
+    "name": "First character",
+    "canonical": "s[0]",
+    "answer": "s [1]",
+    "correct": false,
+    "timestamp": 1663194624667
   }
 ]
