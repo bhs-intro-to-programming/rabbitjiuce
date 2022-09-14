@@ -7,4 +7,4 @@ const averageOfTwo = (a,v) => a/2 + v/2
 const averageOfThree = (a,v,c) => (a + c + v) /3 
 const distance = (a,v) => Math.abs (a - v) 
 const manhattanDistance = (x1, y1, x2, y2) => Math.abs (x2-x1) + Math.abs (y2-y1)
-const euclideanDistance = (x1, y1, x2, y2) => (x2-x1)**2 + (y2-y1)**2) * Math.sqrt
+const euclideanDistance = (x1, y1, x2, y2, Math.sqrt) => (x2-x1)**2 + (y2-y1)**2) * Math.sqrt
