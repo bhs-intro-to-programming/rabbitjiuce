@@ -614,5 +614,26 @@
     "answer": "s.length-1",
     "correct": false,
     "timestamp": 1663277789262
+  },
+  {
+    "name": "All but first",
+    "canonical": "s.substring(1)",
+    "answer": "s.length-1",
+    "correct": false,
+    "timestamp": 1663277789445
+  },
+  {
+    "name": "All but first",
+    "canonical": "s.substring(1)",
+    "answer": "s.length-1",
+    "correct": false,
+    "timestamp": 1663277789613
+  },
+  {
+    "name": "All but first",
+    "canonical": "s.substring(1)",
+    "answer": "s.length-1",
+    "correct": false,
+    "timestamp": 1663277789774
   }
 ]
