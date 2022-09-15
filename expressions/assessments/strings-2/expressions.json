@@ -33,5 +33,12 @@
     "answer": "s.substring[0, 3]. toUpperCase + s.substring (3). toLoweCase",
     "correct": false,
     "timestamp": 1663280451451
+  },
+  {
+    "name": "Capitalize first three",
+    "canonical": "s.substring(0,3).toUpperCase() + s.substring(3).toLowerCase()",
+    "answer": " toLoweCase",
+    "correct": false,
+    "timestamp": 1663280484147
   }
 ]
