@@ -733,5 +733,12 @@
     "answer": "s[0,2]",
     "correct": false,
     "timestamp": 1663279911239
+  },
+  {
+    "name": "First three",
+    "canonical": "s.substring(0,3)",
+    "answer": "s[0, 2]",
+    "correct": false,
+    "timestamp": 1663279919991
   }
 ]
