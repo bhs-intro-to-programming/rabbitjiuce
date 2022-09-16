@@ -82,5 +82,12 @@
     "answer": "'s'.substring [0,3]() + s.substring(3)",
     "correct": false,
     "timestamp": 1663280805854
+  },
+  {
+    "name": "Length",
+    "canonical": "s.length",
+    "answer": "s.lenth",
+    "correct": false,
+    "timestamp": 1663364922443
   }
 ]
