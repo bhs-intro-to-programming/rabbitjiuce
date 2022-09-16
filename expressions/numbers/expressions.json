@@ -26,5 +26,12 @@
     "answer": "100000",
     "correct": false,
     "timestamp": 1663365169763
+  },
+  {
+    "name": "A million",
+    "canonical": "1e6",
+    "answer": "1000000",
+    "correct": true,
+    "timestamp": 1663365172179
   }
 ]
