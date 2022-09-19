@@ -124,5 +124,12 @@
     "answer": "s.toUpperCase",
     "correct": false,
     "timestamp": 1663625108856
+  },
+  {
+    "name": "UPPER CASE",
+    "canonical": "s.toUpperCase()",
+    "answer": "'S'.toUpperCase",
+    "correct": false,
+    "timestamp": 1663625118904
   }
 ]
