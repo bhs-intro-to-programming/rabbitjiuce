@@ -32,4 +32,4 @@
 // Feel free to play around in the REPL to make sure you understand how this
 // operator works.
 
-const pigLatin = s.substring[0] to s.substring [s.length]
+const pigLatin = (word) => word [0] to (word [s.length] + ay)
