@@ -47,5 +47,12 @@
     "answer": "s.length()",
     "correct": false,
     "timestamp": 1663798293135
+  },
+  {
+    "name": "Length",
+    "canonical": "s.length",
+    "answer": "s.length",
+    "correct": true,
+    "timestamp": 1663798294311
   }
 ]
