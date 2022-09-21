@@ -69,4 +69,4 @@
 
 drawFilledCircle(250, 300, 50, 'blue')
 drawRect(250, 50, 300, 100, 'red');
-drawCircle(55, 550, 30) 
+drawCircle(55, 550, 30, 'blue') 
