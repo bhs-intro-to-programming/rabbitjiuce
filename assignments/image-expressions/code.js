@@ -68,5 +68,4 @@
 // drawTriangle(width * 0.25, 10, width * 0.75, 20, width * 0.5, 80, 'blue');
 
 drawFilledCircle(250, 300, 50, 'blue')
-drawRect(250, 50, )
 drawRect(50, 50, 60, 40, 'black');
