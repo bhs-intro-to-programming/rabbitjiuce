@@ -72,4 +72,4 @@ drawRect(125, 50, 250, 100, 'red');
 drawCircle(55, 550, 30, 'blue') 
 drawCircle(430, 450, 30, 'blue')
 drawLine(55, 550, 430, 450, 'black')
-drawTriangle(125, 50, 400, 145, 30, 7)
+drawTriangle(125, 50, 400, 145, 400, 7)
