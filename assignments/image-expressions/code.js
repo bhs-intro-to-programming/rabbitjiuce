@@ -74,4 +74,4 @@ drawCircle(430, 450, 30, 'blue')
 drawLine(55, 550, 430, 450, 'black')
 drawTriangle(245, 55
 , 400, 300
-, 300, 7) 
+, 62.5, 7) 
