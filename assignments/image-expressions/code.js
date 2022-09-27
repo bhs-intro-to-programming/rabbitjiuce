@@ -79,3 +79,5 @@ drawFilledCircle(height/2, width/2, 50, 'blue')
 drawRect(width/4, 50, (width/4) * 3, 100, 'red')
 // it still isn't looking centered ;-; 
 drawTriangle(width/2, 55, (width/3) - 5, 95, width/4, 95) 
+
+//drawTriangle(245, 55, 370, 145, 130, 145, 'blue') 
