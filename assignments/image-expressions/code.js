@@ -76,5 +76,5 @@
 
 drawFilledCircle(height/2, width/2, 50, 'blue') 
 //it doesn't really look centered though???? uhhh maybe it's just my screen 
-drawRect(width/4, 50, (width/4) * 2, 100, 'red')
+drawRect(width/4, 50, (width/4) * 3, 100, 'red')
 // it still isn't looking centered ;-; 
