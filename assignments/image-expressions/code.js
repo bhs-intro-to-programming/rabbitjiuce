@@ -74,3 +74,4 @@
 //drawLine(55, 550, 430, 450, 'black')
 //drawTriangle(245, 55, 370, 145, 130, 145, 'blue') 
 
+drawFilledCircle(height/2, width/2, 50, 'blue')
