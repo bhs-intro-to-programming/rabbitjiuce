@@ -74,4 +74,7 @@
 //drawLine(55, 550, 430, 450, 'black')
 //drawTriangle(245, 55, 370, 145, 130, 145, 'blue') 
 
-drawFilledCircle(height/2, width/2, 50, 'blue')
+drawFilledCircle(height/2, width/2, 50, 'blue') 
+//it doesn't really look centered though???? uhhh maybe it's just my screen 
+drawRect(width/4, 50, (width/4) * 3, 150, 'red')
+//drawRect(125, 50, 250, 100, 'red');
