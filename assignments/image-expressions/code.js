@@ -54,24 +54,29 @@
 // starting with // like what you're reading right now. Or you can enclose code
 // in a /* and then */ like the instruction above.)
 
-drawLine(0, 0, width, height, 'red');
+// drawLine(0, 0, width, height, 'red');
 
-drawCircle(width / 2, height / 2, 10, 'blue');
+// drawCircle(width / 2, height / 2, 10, 'blue');
 
-drawRect(50, 50, 60, 40, 'black');
+// drawRect(50, 50, 60, 40, 'black');
 
-drawFilledCircle(width - 50, height - 50, 50, 'red');
 
-drawFilledRect(5, height - 20, 45, 15, 'purple');
+// drawFilledCircle(width - 50, height - 50, 50, 'red');
 
-drawTriangle(width * 0.25, 10, width * 0.75, 20, width * 0.5, 80, 'blue');
+// drawFilledRect(5, height - 20, 45, 15, 'purple');
 
-// You can also put line breaks in if the line gets too long as shown
-drawFilledTriangle(
-  width * 0.25,
-  height - 10,
-  width * 0.75,
-  height - 20,
-  width * 0.5,
-  height - 80,
-  'blue');
+// drawTriangle(width * 0.25, 10, width * 0.75, 20, width * 0.5, 80, 'blue');
+
+//drawFilledCircle(250, 300, 50, 'blue')
+//drawRect(125, 50, 250, 100, 'red');
+//drawCircle(55, 550, 30, 'blue') 
+//drawCircle(430, 450, 30, 'blue')
+//drawLine(55, 550, 430, 450, 'black')
+//drawTriangle(245, 55, 370, 145, 130, 145, 'blue') 
+
+drawFilledCircle(height/2, width/2, 50, 'blue') 
+//it doesn't really look centered though???? uhhh maybe it's just my screen 
+drawRect(width/4, 50, (width/4) * 3, 100, 'red')
+// it still isn't looking centered ;-; 
+drawTriangle(width/2, 55, (width/3) - 5, 95, width/4, 95, 'blue') 
+
