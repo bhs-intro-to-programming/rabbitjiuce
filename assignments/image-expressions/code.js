@@ -79,4 +79,4 @@
 //drawRect(width/4, 50, (width/4) * 3, 100, 'red')
 // it still isn't looking centered ;-; 
 
-drawLine(10000, 1000000, 10000000000, 10000000, 'red)
+drawLine(5, 1000000, 10000000000, 10000000, 'red)
