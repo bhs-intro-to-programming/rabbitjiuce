@@ -7,3 +7,5 @@ const emit = (a, b, product) => {
 // Write your code here ...
 
 const averageWeight = (totalWeight, totalItems) => totalWeight/totalItems 
+
+const hypotenuse = (a, b) => a**2 + b**2 
