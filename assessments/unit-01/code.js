@@ -16,7 +16,7 @@ const numCircles = (r, width) => width/ 2*r
 
 const offset = 
 
-canSleepIn = (weekday, vacation) => weekday || vacation 
+const canSleepIn = (weekday, vacation) => weekday || vacation 
 
 const canGoToProm = (senior, invitedBySenior, promExclusion) => !promExclusion && invitedBySenior || !promExlusion && senior 
 
