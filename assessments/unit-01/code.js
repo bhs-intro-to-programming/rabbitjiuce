@@ -30,7 +30,7 @@ const firstHalf = 's1'.substring [0, s.length/2]
 
 const secondHalf = 's1'.subtring (s.length/2) 
 
-const firstHalf('s'); + secondHalf('s'); = 's'
+const 's' = firstHalf('s') + secondHalf ('s') 
 
 
 
