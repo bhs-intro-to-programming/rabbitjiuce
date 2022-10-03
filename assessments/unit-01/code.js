@@ -14,7 +14,7 @@ const maxRadius
 
 const numCircles = (r, width) => width/ 2*r 
 
-//const offset = 
+const offset  
 
 const canSleepIn = (weekday, vacation) => weekday || vacation 
 
