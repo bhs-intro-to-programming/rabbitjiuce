@@ -20,7 +20,7 @@ const canSleepIn = (weekday, vacation) => weekday || vacation
 
 const canGoToProm = (senior, invitedBySenior, promExclusion) => !promExclusion && invitedBySenior || !promExlusion && senior 
 
-
+const getsSpeedingTicket = (mPH, grouchyCop, )
 
 
 
