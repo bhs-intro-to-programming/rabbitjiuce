@@ -35,7 +35,9 @@ const secondHalf = 's1'.subtring (s.length/2)
 
 const upDown = 's'.toUpperCase; + 's' 
 
-const 
+const everyOther = 's'.substring[0] + 's'.substring[2] + 's'.substring[4] + 's'.substring[6] + 's'.substring[8]
+//there was probably a more efficient way to do that but oh well 
+
 
 
 
