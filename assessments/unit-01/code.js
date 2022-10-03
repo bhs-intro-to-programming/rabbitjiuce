@@ -10,17 +10,30 @@ const averageWeight = (totalWeight, totalItems) => totalWeight/totalItems
 
 const hypotenuse = (a, b) => a**2 + b**2 
 
-const maxRadius 
+//const maxRadius 
 
 const numCircles = (r, width) => width/ 2*r 
 
-const offset  
+//const offset  
 
 const canSleepIn = (weekday, vacation) => weekday || vacation 
 
 const canGoToProm = (senior, invitedBySenior, promExclusion) => !promExclusion && invitedBySenior || !promExlusion && senior 
 
-const getsSpeedingTicket = (mPH, grouchyCop, )
+const getsSpeedingTicket = (mPH, grouchyCop) => mPH>65 && grouchyCop || mPH>70 && !grouchyCop 
+
+const moreThanTwiceAsLong = ('s1', 's2') => 's1' ** 2 < 's2' 
+
+const aFartherThanB = (a, b, c) => 
+
+
+
+
+
+
+
+
+
 
 
 
