@@ -9,3 +9,18 @@ const emit = (a, b, product) => {
 const averageWeight = (totalWeight, totalItems) => totalWeight/totalItems 
 
 const hypotenuse = (a, b) => a**2 + b**2 
+
+const maxRadius 
+
+const numCircles = (r, width) => width/ 2*r 
+
+const offset = 
+
+canSleepIn = (weekday, vacation) => weekday || vacation 
+
+const canGoToProm = (senior, invitedBySenior, promExclusion) => !promExclusion && invitedBySenior || !promExlusion && senior 
+
+
+
+
+
