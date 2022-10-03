@@ -10,7 +10,7 @@ const averageWeight = (totalWeight, totalItems) => totalWeight/totalItems
 
 const hypotenuse = (a, b) => a**2 + b**2 
 
-//const maxRadius 
+const maxRadius = (height, width) => hei
 
 const numCircles = (r, width) => width/ 2*r 
 
@@ -40,17 +40,8 @@ const everyOther = 's'.substring[0] + 's'.substring[2] + 's'.substring[4] + 's'.
 
 const upDownLastCharacter = 's'.substring[s.length].toUpperCase; + 's'.substring[s.length]
 
+const yesIfEven 
 
+const countXs 
 
-
-
-
-
-
-
-
-
-
-
-
-
+const sumSquares 
