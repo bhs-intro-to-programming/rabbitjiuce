@@ -38,6 +38,7 @@ const upDown = 's'.toUpperCase; + 's'
 const everyOther = 's'.substring[0] + 's'.substring[2] + 's'.substring[4] + 's'.substring[6] + 's'.substring[8]
 //there was probably a more efficient way to do that but oh well 
 
+const upDownLastCharacter = 's'.substring[s.length].toUpperCase; + 's'.substring[s.length]
 
 
 
