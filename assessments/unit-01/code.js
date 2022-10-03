@@ -26,7 +26,16 @@ const moreThanTwiceAsLong = 's1' ** 2 < 's2'
 
 const aFartherThanB = (a, b, c) => a-c > a-b 
 
-const firstHalf = ''
+const firstHalf = 's1'.substring [0, s.length/2]
+
+const secondHalf = 's1'.subtring (s.length/2) 
+
+const firstHalf('s'); + secondHalf('s'); = 's'
+
+
+
+
+
 
 
 
