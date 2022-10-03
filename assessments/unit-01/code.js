@@ -22,9 +22,11 @@ const canGoToProm = (senior, invitedBySenior, promExclusion) => !promExclusion &
 
 const getsSpeedingTicket = (mPH, grouchyCop) => mPH>65 && grouchyCop || mPH>70 && !grouchyCop 
 
-const moreThanTwiceAsLong = ('s1', 's2'); => 's1' ** 2 < 's2' 
+const moreThanTwiceAsLong = 's1' ** 2 < 's2' 
 
-const aFartherThanB = (a, b, c) => 
+const aFartherThanB = (a, b, c) => a-c > a-b 
+
+const firstHalf = ''
 
 
 
