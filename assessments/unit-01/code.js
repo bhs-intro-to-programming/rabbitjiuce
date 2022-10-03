@@ -33,7 +33,7 @@ const secondHalf = 's1'.subtring (s.length/2)
 const 's' = firstHalf('s') + secondHalf ('s') 
 //I don't know how to fix that but I guess I'll come back to it later 
 
-const upDown 
+const upDown = 's'.toUpperCase; + 's' 
 
 
 
