@@ -51,15 +51,6 @@ const gravity = (body1, body2, distance) => {
 
 
 
-const firstClassPostage = (letterOunces) => {
-  return letterOunces 
-}; 
-
-
-
-
-
-
 
 
 
