@@ -35,6 +35,7 @@ const valueOfJewels = (numDiamonds, numEmeralds, diamondGold, emeraldGold) => {
 const payWithOvertime = (hoursWork, hourRate, overRate) => {
   return (hoursWork * hourRate) + ((hoursWork-8) * overRate)
 }; 
+//I would add Math.abs but it says 'assuming they worked 8 hours' so I'm guessing I don't need to?
 
 const firstClassPostage = (letterOunces) => {
   return letterOunces 
@@ -47,6 +48,31 @@ const weightOnJupiter = (personWeight) => {
 const gravity = (body1, body2, distance) => {
   return ((body1 * body2)/distance**2) * G 
 }; 
+
+
+
+const firstClassPostage = (letterOunces) => {
+  return letterOunces 
+}; 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
