@@ -38,7 +38,7 @@ const payWithOvertime = (hoursWork, hourRate, overRate) => {
 //I would add Math.abs but it says 'assuming they worked 8 hours' so I'm guessing I don't need to?
 
 const firstClassPostage = (letterOunces) => {
-  return letterOunces 
+  return 60 + (((letterOunces-1) * Math.ceil) * 24)
 }; 
 
 const weightOnJupiter = (personWeight) => {
@@ -48,22 +48,3 @@ const weightOnJupiter = (personWeight) => {
 const gravity = (body1, body2, distance) => {
   return ((body1 * body2)/distance**2) * G 
 }; 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
