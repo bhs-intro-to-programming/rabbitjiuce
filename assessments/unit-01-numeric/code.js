@@ -33,7 +33,7 @@ const valueOfJewels = (numDiamonds, numEmeralds, diamondGold, emeraldGold) => {
 }; 
 
 const payWithOvertime = (hoursWork, hourRate, overRate) => {
-  return (hoursWork * hourRate) + (Math.abs * ((hoursWork-8) * overRate))
+  return (hoursWork * hourRate) + (hoursWork-8) * overRate)
 }; 
 
 const firstClassPostage = (letterOunces) => {
