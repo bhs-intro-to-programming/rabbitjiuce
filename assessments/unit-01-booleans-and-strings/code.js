@@ -19,3 +19,4 @@ const evenGreaterThanZero = (x) => (x > 0) && !(x % 2 != 0)
 
 const isLeapYear = (year) => (year/4 && !year/100) || (year/400 && year/100) 
 
+const firstAndLast = (s) => s[0] + s.length 
