@@ -13,3 +13,5 @@ const rand = (n) => Math.floor(Math.random() * n);
 // i don't know if i'm supposed to do this but why not 
 
 const fireAlarm = (alarmPulled, smoke, fireDrill) => alarmPulled || smoke || fireDrill 
+const canBePresident = (age, citizen, livedInUSA) => (age>34) && citizen && (livedInUSA>13) 
+const willSeeTweet = (followTweet, followRetweet, blocked) => (followTweet || followRetweet) && !blocked 
