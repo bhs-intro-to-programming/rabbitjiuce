@@ -15,3 +15,6 @@ const rand = (n) => Math.floor(Math.random() * n);
 const fireAlarm = (alarmPulled, smoke, fireDrill) => alarmPulled || smoke || fireDrill 
 const canBePresident = (age, citizen, livedInUSA) => (age>34) && citizen && (livedInUSA>13) 
 const willSeeTweet = (followTweet, followRetweet, blocked) => (followTweet || followRetweet) && !blocked 
+const evenGreaterThanZero = (x) => {
+  return (x>0) && (x % 2 = 0)
+}
