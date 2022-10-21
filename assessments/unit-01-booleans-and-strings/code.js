@@ -16,4 +16,4 @@ const fireAlarm = (alarmPulled, smoke, fireDrill) => alarmPulled || smoke || fir
 const canBePresident = (age, citizen, livedInUSA) => (age>34) && citizen && (livedInUSA>13) 
 const willSeeTweet = (followTweet, followRetweet, blocked) => (followTweet || followRetweet) && !blocked 
 const evenGreaterThanZero = (x) => (x > 0) && !(x % 2 != 0) 
-const isLeapYear = (year) => (year/4) || (year/400 && year/100) 
+const isLeapYear = (year) => (year/4 && !year/100) || (year/400 && year/100) 
