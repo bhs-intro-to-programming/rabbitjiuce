@@ -17,5 +17,5 @@ const canBePresident = (age, citizen, livedInUSA) => (age>34) && citizen && (liv
 const willSeeTweet = (followTweet, followRetweet, blocked) => (followTweet || followRetweet) && !blocked 
 const evenGreaterThanZero = (x) => (x > 0) && !(x % 2 != 0) 
 const isLeapYear = (year) => {
-  return (year%4) || (year%100 && year%400) 
+  if (year%4) || (year%100 && year%400) 
 } 
