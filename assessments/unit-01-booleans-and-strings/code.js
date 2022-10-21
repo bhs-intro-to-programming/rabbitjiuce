@@ -12,4 +12,4 @@ const rand = (n) => Math.floor(Math.random() * n);
 
 // i don't know if i'm supposed to do this but why not 
 
-fireAlarm = (alarmPulled, smoke, fireDrill) => alarmPulled || smoke || fireDrill 
+const fireAlarm = (alarmPulled, smoke, fireDrill) => alarmPulled || smoke || fireDrill 
