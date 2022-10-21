@@ -11,7 +11,7 @@
   null,
   null,
   null,
-  null,
+  "xs[xs.length]",
   "2",
   "undefined",
   "xs[2][1]"
