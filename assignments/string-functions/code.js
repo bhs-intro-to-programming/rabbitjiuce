@@ -19,6 +19,12 @@ const isAllUpperCase = (s) => s.indexOf()
 const sameIgnoringCase = (s, s2) => {
   return s.indexOf (s2)
 }
+//i think i would have to understand the uppercase one to get this one 
+
+const firstHalf = (s) => {
+  return s.substring(0, s.length/2)
+}
+
 
 
 // ayo look at ur own screen
