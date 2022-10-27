@@ -8,7 +8,8 @@ const firstAndLast = (s) => {
   return s.substring[0] + s.substring[s.length];
 }
 
-const swapFrontAndBack = (s) => s.substring (0, s.length/2) + s.substring (s.length/2) 
+const swapFrontAndBack = (s) => s.substring (s.length/2) +s.substring (0, s.length/2)
+
 
 
 
