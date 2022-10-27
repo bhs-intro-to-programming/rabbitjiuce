@@ -25,9 +25,11 @@ const firstHalf = (s) => {
   return s.substring(0, s.length/2)
 }
 
+const secondHalf = (s) => {
+  return (s.length/2)
+}
 
-
-// ayo look at ur own screen
+// ayo look at ur own screen 
 
 
 
