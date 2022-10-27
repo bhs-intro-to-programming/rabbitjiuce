@@ -1,5 +1,5 @@
 const findFnord = (s) => {
-  indedOf(s)
+  s.indexOf ('fnord')
 }
 
 
