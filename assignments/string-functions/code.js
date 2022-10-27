@@ -29,10 +29,9 @@ const secondHalf = (s) => {
   return s.substring(s.length/2)
 }
 
-const upDown = 
-//you didn't finish ;-; 
+//updown, everyother, and updownlastcharacter aren't showing up ;-; it just says 'a function that' 
 
-const 
+const firstName = (s) => 
 
 
 
