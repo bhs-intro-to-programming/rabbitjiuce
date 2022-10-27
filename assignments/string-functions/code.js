@@ -6,7 +6,7 @@ const stringContains = (s, s2) => {
 } 
 
 const firstAndLast = (s) => {
-  return s.substring[0] + s.substring[s.length]; 
+  return s.substring [0] + s.substring [s.length]
 }
 
 
