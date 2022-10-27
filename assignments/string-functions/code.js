@@ -31,7 +31,7 @@ const secondHalf = (s) => {
 
 //updown, everyother, and updownlastcharacter aren't showing up ;-; it just says 'a function that' 
 
-const firstName = (s) => 
+const firstName = (s) => s.substring - (s.indexOf (' ')) 
 
 
 
