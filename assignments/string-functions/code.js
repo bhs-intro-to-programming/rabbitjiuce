@@ -26,7 +26,7 @@ const firstHalf = (s) => {
 }
 
 const secondHalf = (s) => {
-  return (s.length/2)
+  return s.substring(s.length/2)
 }
 
 // ayo look at ur own screen 
