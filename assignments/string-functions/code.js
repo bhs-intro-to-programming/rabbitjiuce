@@ -14,6 +14,11 @@ const simplePigLatin = (s, vowel) => s - (s.substring(0, vowel)) + 'ay'
 // i get why it's not working but i don't know how to fix it 
 
 const isAllUpperCase = (s) => s.indexOf()
+//is there an uppercase indexOf thing??? 
+
+const sameIgnoringCase = (s, s2) => {
+  return s.indexOf (s2)
+}
 
 
 // ayo look at ur own screen
