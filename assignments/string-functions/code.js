@@ -11,7 +11,9 @@ const firstAndLast = (s) => {
 const swapFrontAndBack = (s) => s.substring (s.length/2) +s.substring (0, s.length/2)
 
 const simplePigLatin = (s, vowel) => s - (s.substring(0, vowel)) + 'ay'
+// i get why it's not working but i don't know how to fix it 
 
+const isAllUpperCase = (s) => s.indexOf()
 
 
 // ayo look at ur own screen
