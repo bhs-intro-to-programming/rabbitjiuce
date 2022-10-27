@@ -29,6 +29,14 @@ const secondHalf = (s) => {
   return s.substring(s.length/2)
 }
 
+const upDown = 
+
+
+
+
+
+
+
 // ayo look at ur own screen 
 
 
