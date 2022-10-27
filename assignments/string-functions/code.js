@@ -1,5 +1,5 @@
 const findFnord = (s) => {
-  return s.subtring (indexOf fnord)
+  return s.subtring (indexOf fnord)()
 }
 
 
