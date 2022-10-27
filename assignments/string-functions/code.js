@@ -1,1 +1,5 @@
-let s = ['fnord', 'lll', 'sahghf'] 
+const findFnord = (s) => {
+  return s.indexOf (fnord)
+}
+
+
