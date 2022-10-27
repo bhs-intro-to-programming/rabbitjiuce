@@ -32,7 +32,7 @@ const secondHalf = (s) => {
 //updown, everyother, and updownlastcharacter aren't showing up ;-; it just says 'a function that' 
 
 const firstName = (s) => {
-  return s.substring [0, (s.indexOf (' ')]
+  return s.substring[0, (s.indexOf (' ')]
 } 
 
 
