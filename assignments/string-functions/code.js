@@ -1,5 +1,3 @@
-const findFnord = (s) => {
-  s.indexOf ('fnord')
-}
+const s.indexOf ('fnord')
 
 
