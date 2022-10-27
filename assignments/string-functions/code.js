@@ -5,7 +5,7 @@ const stringContains = (s, s2) => {
   return s.indexOf ('s2')
 } 
 
-const firstAndLast = (s) => s.substring[0] + s.substring[s.length]
+const firstAndLast = (s) => s.substring[0] + s.substring[s.length-1]
 
 
 
