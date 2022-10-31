@@ -51,7 +51,7 @@ const randomCharacter = (s) => {
 } 
 
 const randomCharacterUpDown = (s) => {
-  return s[rand(s.length)].toUpperCase() + s[rand(s.length)].toLowerCase() 
-}
+  return s[rand(s.length)].toUpperCase() + s
+} 
 
 
