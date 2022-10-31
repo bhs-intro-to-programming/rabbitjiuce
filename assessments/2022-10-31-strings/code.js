@@ -18,7 +18,6 @@ const firstHalf = (s) => {
 
 const secondHalf = (s) => s.substring(s.length/2)
 
-let s = 'abcdefg'
 
 const upDown = (s) => s.toUpperCase() + s.toLowerCase() 
 
@@ -64,3 +63,5 @@ const sameIgnoringCase = (s, s2) => {
   return s.toLowerCase == s2.toLowerCase
 }
 
+let s = 'abc' 
+let s2 = 'ABC' 
