@@ -11,8 +11,9 @@ const rand = (n) => Math.floor(Math.random() * n);
 // function but you can get partial credit for a function that is basically
 // correct even if contains small mistakes.
 
-let s = 'gggggg'
 
 const firstHalf = (s) => {
   return s.substring (0, s.length/2)
 }
+
+const secondHalf = (s) => s.substring(s.length/2)
