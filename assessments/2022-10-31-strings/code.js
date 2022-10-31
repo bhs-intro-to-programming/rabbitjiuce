@@ -42,4 +42,8 @@ const swapFrontAndBack = (s) => {
 
 let a = 'happyhalloweeeeeeeeeeeeeeeen'
 
-///ayo man look at ur own thing 
+const simplePigLatin = (s, num) => {
+  return s.substring (num, s.length-1) + s.substring(0, num) + 'ay'
+}
+ 
+
