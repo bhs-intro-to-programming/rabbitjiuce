@@ -18,8 +18,13 @@ const firstHalf = (s) => {
 
 const secondHalf = (s) => s.substring(s.length/2)
 
-let s = 'gggg'
+let s = 'gggggg'
 
 const upDown = (s) => s.toUpperCase() + s.toLowerCase() 
 
+const firstFewEveryOther(s) => {
+  return s[0] + s[2] + s[4]
+}
 
+
+///ayo man look at ur own thing 
