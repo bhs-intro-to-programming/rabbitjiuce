@@ -22,7 +22,7 @@ let s = 'abcdefg'
 
 const upDown = (s) => s.toUpperCase() + s.toLowerCase() 
 
-const firstFewEveryOther(s) => {
+const firstFewEveryOther = (s) => {
   return s[0] + s[2] + s[4]
 }
 
