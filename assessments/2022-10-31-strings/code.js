@@ -31,7 +31,7 @@ const upDownLastCharacter = (s) => {
 }
 
 const firstAndLast = (s) => {
-  s[0] + s[s.length-1]
+  return s[0] + s[s.length-1]
 }
 
 let f = 'fghjkkla'  
