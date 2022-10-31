@@ -47,4 +47,3 @@ const simplePigLatin = (s, num) => {
 }
  
 const randomCharacter = (s) => s.substring[rand(s.length-1)] 
- let a = 'happyhalloweeeeeeeeeeeeeeeen'
