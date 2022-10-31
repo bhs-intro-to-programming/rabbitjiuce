@@ -18,7 +18,7 @@ const firstHalf = (s) => {
 
 const secondHalf = (s) => s.substring(s.length/2)
 
-let s = 'gggggg'
+let s = 'abcdefg'
 
 const upDown = (s) => s.toUpperCase() + s.toLowerCase() 
 
