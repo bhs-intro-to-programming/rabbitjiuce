@@ -40,5 +40,6 @@ const swapFrontAndBack = (s) => {
   return s.substring(s.length/2) + s.substring(0, s.length/2)
 }
 
+let a = 'happyhalloweeeeeeeeeeeeeeeen'
 
 ///ayo man look at ur own thing 
