@@ -66,4 +66,4 @@ const sameIgnoringCase = (s, s2) => {
 let s = 'abc' 
 let s2 = 'ABC' 
 
-const firstName = (s) => s.indexOf(" ") 
+const firstName = (s) => s.substring(0, s.indexOf(" ")) 
