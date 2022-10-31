@@ -55,5 +55,12 @@ const randomCharacterUpDown = (s) => {
 } 
 //i don't know how to have it twice and different?? i get that it's going to generate different characters, but i don't know how to fix it 
 
-const 
+const allInUpperCase = (s) => {
+  return s.toUpperCase = s 
+} 
+//i have no clue how to do this sorry 
+
+const sameIgnoringCase = (s, s2) => {
+  return s.toLowerCase == s2.toLowerCase
+}
 
