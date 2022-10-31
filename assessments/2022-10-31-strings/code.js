@@ -34,6 +34,6 @@ const firstAndLast = (s) => {
   s[0] + s[s.length-1]
 }
 
-let f = fghjkkla  
+let f = 'fghjkkla'  
 
 ///ayo man look at ur own thing 
