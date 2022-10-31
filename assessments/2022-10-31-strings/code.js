@@ -17,3 +17,4 @@ const firstHalf = (s) => {
 }
 
 const secondHalf = (s) => s.substring(s.length/2)
+
