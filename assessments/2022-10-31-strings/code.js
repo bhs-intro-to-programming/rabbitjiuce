@@ -30,5 +30,8 @@ const upDownLastCharacter = (s) => {
   return s[s.length-1].toUpperCase() + s[s.length-1].toLowerCase()
 }
 
+const firstAndLAst = (s) => {
+  s[0] + s[s.length-1]
+}
 
 ///ayo man look at ur own thing 
