@@ -51,7 +51,9 @@ const randomCharacter = (s) => {
 } 
 
 const randomCharacterUpDown = (s) => {
-  return s[rand(s.length)].toUpperCase() + s
+  return s[rand(s.length)].toUpperCase() + s[rand(s.length)].toLowerCase()
 } 
+//i don't know how to have it twice and different?? i get that it's going to generate different characters, but i don't know how to fix it 
 
+const 
 
