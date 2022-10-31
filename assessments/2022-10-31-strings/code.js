@@ -37,7 +37,7 @@ const firstAndLast = (s) => {
 let f = 'fghjkkla'  
 
 const swapFrontAndBack = (s) => {
-  return s[s.length-1] + s.substring (1, s.length-2) + s[0]
+  return s[s.length/2] + s.substring(0, s.length/2)
 }
 
 
