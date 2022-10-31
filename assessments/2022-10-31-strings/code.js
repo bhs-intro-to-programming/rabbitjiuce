@@ -69,3 +69,5 @@ let s2 = 'ABC'
 const firstName = (v) => v.substring(0, v.indexOf(" ")) 
 
 let v = 'sir man'
+
+const lastName = (v) => v.substring(v.indexOf(" ")) 
