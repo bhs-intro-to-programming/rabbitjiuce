@@ -20,6 +20,6 @@ const secondHalf = (s) => s.substring(s.length/2)
 
 //let s = 'gggg'
 
-const upDown = (s) => s.toUpperCase; + s.toLowerCase; 
+const upDown = (s) => s.toUpperCase() + s.toLowerCase() 
 
 
