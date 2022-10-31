@@ -71,3 +71,5 @@ const firstName = (v) => v.substring(0, v.indexOf(" "))
 let v = 'sir man'
 
 const lastName = (v) => v.substring(v.indexOf(" ")) 
+
+const initials = (v) => v[v.indexOf(" ")] + v[v.indexOf(" ") + 1]
