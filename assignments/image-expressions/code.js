@@ -78,3 +78,9 @@
 //it doesn't really look centered though???? uhhh maybe it's just my screen 
 //drawRect(width/4, 50, (width/4) * 3, 100, 'red')
 // it still isn't looking centered ;-; 
+
+
+const hhhh = (a) => a.substring(a.length-1)
+
+
+let a = 'sahsfdfasfdhg'
