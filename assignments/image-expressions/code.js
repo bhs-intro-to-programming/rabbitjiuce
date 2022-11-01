@@ -80,7 +80,7 @@
 // it still isn't looking centered ;-; 
 
 
-const hhhh = (a) => a.substring(a.length-1)
+const hhhh = (a) => a.substring(0, a.length-1)
 
 
 let a = 'sahsfdfasfdhg'
