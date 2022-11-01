@@ -84,6 +84,6 @@ const hhhh = (a) => a.substring(0, a.length-1)
 
 
 let a = 'sahsfdfasfdhg'
-let ur = mom 
-let slay = queen 
-let more = like 
+let ur = 'mom' 
+let slay = 'queen' 
+let more = 'like'
