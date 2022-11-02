@@ -88,8 +88,3 @@ let a = 'sahsfdfasfdhg'
 let ur = 'mom' 
 let slay = 'queen' 
 let more = 'like'
-
-for (let i = 0; i < 100; i++) {
-  // i ++ 
-}
-
