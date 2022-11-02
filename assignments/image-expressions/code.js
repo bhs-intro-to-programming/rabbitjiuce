@@ -87,3 +87,10 @@ let a = 'sahsfdfasfdhg'
 let ur = 'mom' 
 let slay = 'queen' 
 let more = 'like'
+
+let x = 1 
+
+const helpHowDoLoopsLoop = (x) => {
+  if x<10000000000 
+  return x + 1
+}
