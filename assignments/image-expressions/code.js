@@ -90,7 +90,3 @@ let slay = 'queen'
 let more = 'like'
  
 
- let sum = 0;
-for (let i = 0; i < 100; i++) {
-  sum = sum + 7(i);
-}
