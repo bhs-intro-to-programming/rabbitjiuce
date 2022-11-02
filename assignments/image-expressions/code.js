@@ -88,3 +88,10 @@ let a = 'sahsfdfasfdhg'
 let ur = 'mom' 
 let slay = 'queen' 
 let more = 'like'
+
+let count = 0;
+for (let i = 0; i < 100; i++) {
+  if (i > 100 (i)) {
+    count++;
+  }
+}
