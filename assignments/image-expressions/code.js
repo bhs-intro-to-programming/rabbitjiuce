@@ -91,6 +91,6 @@ let more = 'like'
 let x = 1 
 
 const helpHowDoLoopsLoop = (x) => {
-  if x<10000000000 
+  if x < 10000000000 
   return x + 1
 }
