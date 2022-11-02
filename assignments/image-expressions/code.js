@@ -90,8 +90,8 @@ let more = 'like'
 
 
 const helpHowDoLoopsLoop = (x) => {
-  if 'x' < 10000000000 
+  if x < 10000000000 
   return x + 1
 }
 
-let x = 1
+let x = '1'
