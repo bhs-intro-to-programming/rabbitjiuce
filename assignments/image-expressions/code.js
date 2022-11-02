@@ -1,3 +1,4 @@
+
 /*
    This code is running in an environment with five functions defined:
 
@@ -88,10 +89,3 @@ let ur = 'mom'
 let slay = 'queen' 
 let more = 'like'
 
-
-const helpHowDoLoopsLoop = (x) => {
-  if x < 10000000000 
-  return x + 1
-}
-
-let x = '1'
