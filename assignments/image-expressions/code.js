@@ -90,3 +90,4 @@ let slay = 'yass'
 let more = 'like'
 
 
+let help = 'hasgdfdjhawefsdfzzczxxczxcbxvnbdfhzszagxnfghfgh'
