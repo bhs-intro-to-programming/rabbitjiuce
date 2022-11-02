@@ -92,3 +92,5 @@ let more = 'like'
 for (let i = 0; i < 100; i++) {
   // code here that uuses i 
 }
+
+let i = 0; 
