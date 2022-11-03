@@ -88,6 +88,5 @@ let a = 'sahsfdfasfdhg'
 let ur = 'mom' 
 let slay = 'yass' 
 let more = 'like'
+let help = ':('
 
-
-let help = 'hasgdfdjhawefsdfzzczxxczxcbxvnbdfhzszagxnfghfgh'
