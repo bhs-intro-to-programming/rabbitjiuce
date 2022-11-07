@@ -84,3 +84,4 @@
 const hhhh = (a) => a.substring(0, a.length-1)
 
 let point = { 'x': 10, 'y': 20 } 
+const getX = (value idk) 
