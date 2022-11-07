@@ -83,11 +83,5 @@
 
 const hhhh = (a) => a.substring(0, a.length-1)
 
+let point = { 'x': 10, 'y': 20 }
 
-let a = 'sahsfdfasfdhg' 
-let ur = 'mom' 
-let slay = 'yass' 
-let more = 'like' 
-let help = ':(' 
-let oh = 'no' 
-let 2 = 'ne1'
