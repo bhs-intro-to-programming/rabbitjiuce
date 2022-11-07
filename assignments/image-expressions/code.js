@@ -60,28 +60,3 @@
 // drawCircle(width / 2, height / 2, 10, 'blue');
 
 // drawRect(50, 50, 60, 40, 'black');
-
-
-// drawFilledCircle(width - 50, height - 50, 50, 'red');
-
-// drawFilledRect(5, height - 20, 45, 15, 'purple');
-
-// drawTriangle(width * 0.25, 10, width * 0.75, 20, width * 0.5, 80, 'blue');
-
-//drawFilledCircle(250, 300, 50, 'blue')
-//drawRect(125, 50, 250, 100, 'red');
-//drawCircle(55, 550, 30, 'blue') 
-//drawCircle(430, 450, 30, 'blue')
-//drawLine(55, 550, 430, 450, 'black')
-//drawTriangle(245, 55, 370, 145, 130, 145, 'blue') 
-
-//drawFilledCircle(height/2, width/2, 50, 'blue') 
-//it doesn't really look centered though???? uhhh maybe it's just my screen 
-//drawRect(width/4, 50, (width/4) * 3, 100, 'red')
-// it still isn't looking centered ;-; 
-
-
-const hhhh = (a) => a.substring(0, a.length-1)
-
-let point = { 'x': 10, 'y': 20 } 
-const getX = (value) 
