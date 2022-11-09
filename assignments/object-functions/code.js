@@ -1,1 +1,1 @@
-const getX 
+const point = (x,y) => {x, y}
