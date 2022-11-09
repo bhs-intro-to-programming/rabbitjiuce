@@ -9,15 +9,15 @@ const emptyObject = () => {
   return {}
 }
 
-const distance = (point1, point2) => {
-  return ((((point2:x) - (point1:x))**2) + (((point2:y) - (point1:y))**2))Math.sqrt
-}
+//const distance = (point1, point2) => {
+//  return ((((point2:x) - (point1:x))**2) + (((point2:y) - (point1:y))**2))Math.sqrt
+//}
 
-const midpoint = (p1, p2) => {
-  return return {
-  x: (p1.x + p2.x) / 2,
-  y; (p1.y + p2.y) / 2
-};
+//const midpoint = (p1, p2) => {
+//  return return {
+//  x: (p1.x + p2.x) / 2,
+//  y; (p1.y + p2.y) / 2
+//};
 
 
 
