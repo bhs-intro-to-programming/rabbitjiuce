@@ -20,8 +20,6 @@ const midpoint = (p1, p2) => {
 };
 
 
-const s = ‘foo * bar’;
-
 
 }
 
@@ -34,3 +32,4 @@ const s = ‘foo * bar’;
 
 //square root of xaxis distance squared + yaxis distance squared
 
+//{ x: 10, y: 20 }
