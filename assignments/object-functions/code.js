@@ -14,7 +14,7 @@ let point2 = {'x':400, 'y':50}
 
 
 const distance = (point1, point2) => {
-  return Math.sqrt * ((((point1.x) - (point2.x))**) + (((point1.y) - (point2.y))**))
+  return Math.sqrt ((point1:'x' - point2:'x'))
 }
 
 //indexOf 
@@ -22,5 +22,5 @@ const distance = (point1, point2) => {
 
 
 
-
+//square root of xaxis distance + yaxis distance 
 
