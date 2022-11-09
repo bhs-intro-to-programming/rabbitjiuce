@@ -1,1 +1,3 @@
-const point = (x,y) => {x, y}
+const point = (x,y) => {
+  return {'x':x, 'y':y}
+}
