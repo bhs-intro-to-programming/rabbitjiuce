@@ -10,10 +10,6 @@ const emptyObject = () => {
 }
 
 
-const distance = (point1, point2) => {
-  return Math.sqrt((point1:x) - (point2:x)**2)}
-}
-
 
 
 //indexOf 
