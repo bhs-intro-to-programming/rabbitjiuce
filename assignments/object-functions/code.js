@@ -9,7 +9,9 @@ const emptyObject = () => {
   return {}
 }
 
-
+const distance = (point1, point2) => {
+  return (point1:x)
+}
 
 
 //indexOf 
