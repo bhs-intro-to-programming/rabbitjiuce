@@ -13,8 +13,16 @@ const distance = (point1, point2) => {
   return ((((point2:x) - (point1:x))**2) + (((point2:y) - (point1:y))**2))Math.sqrt
 }
 
-const midpoint = (point1, point2) => {
-  return (((point1:x) + point2:x)/2) , (((point1:y) + (point2:y))/2)
+const midpoint = (p1, p2) => {
+  return return {
+  x: (p1.x + p2.x) / 2,
+  y; (p1.y + p2.y) / 2
+};
+
+
+const s = ‘foo * bar’;
+
+
 }
 
 
