@@ -14,7 +14,7 @@ let point2 = {'x':400, 'y':50}
 
 
 const distance = (point1, point2) => {
-  return Math.sqrt ((_point1:x - point2:x))
+  return Math.sqrt (point1:x - point2:x)
 }
 
 //indexOf 
