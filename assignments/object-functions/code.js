@@ -1,4 +1,4 @@
-const getX = (object) => object.X
+const getX = (object) => object.x
 
 
 
