@@ -14,7 +14,7 @@ const distance = (p1, p2) => {
 }
 
 const midpoint =(p1, p2) => {
-  return let p1.'x'
+   let p1.'x':((p1.x/2) + (p2.x/2))
   }
 
 
