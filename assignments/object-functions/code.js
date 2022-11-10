@@ -18,7 +18,7 @@ const midpoint =(p1, p2) => {
   }
 
 const sumSalaries = ['x', 'y', 'z'] ; {
-  return 
+  return x.salary + y.salary + z.salary
   }
 
 
