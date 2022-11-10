@@ -18,7 +18,7 @@ const midpoint =(p1, p2) => {
   }
 
 const summarizeBooks = ([myArray]) => {
-  return myArray.title + myArray.pages
+  return myArray.title + (myArray.pages + myArray2.pages) 
 }
 
 
