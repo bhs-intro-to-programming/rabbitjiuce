@@ -9,9 +9,9 @@ const emptyObject = () => {
   return {}
 }
 
-//const distance = (point1, point2) => {
-//  return ((((point2:x) - (point1:x))**2) + (((point2:y) - (point1:y))**2))Math.sqrt
-//}
+const distance = (p1, p2) => {
+  return Math.sqrt((((p2.x) - (p1.x))**2) + (((p2.y) - (p1.y))**2))
+}
 
 //const midpoint = (p1, p2) => {
 //  return return {
