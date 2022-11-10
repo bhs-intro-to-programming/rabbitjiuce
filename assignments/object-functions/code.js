@@ -18,9 +18,9 @@ const midpoint =(p1, p2) => {
   }
 
 const summarizeBooks = ([myArray]) => {
-  return myArray.title + (myArray.pages + myArray2.pages) 
+  return myArray.title + myArray.pages 
 }
-
+//how do i make it multiple 
 
 
 
