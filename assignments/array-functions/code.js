@@ -8,4 +8,4 @@ if (n % 2 === 0) {
   return true;
 }
 
-let n = '15'
+let n = 15
