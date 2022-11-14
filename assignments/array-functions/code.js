@@ -1,1 +1,3 @@
-const countTens = (array) => sizeOf(array.'10')
+const itemCounter = (array, item) => {
+  array.flat(Infinity).filter(currentItem => currentItem === item)
+}
