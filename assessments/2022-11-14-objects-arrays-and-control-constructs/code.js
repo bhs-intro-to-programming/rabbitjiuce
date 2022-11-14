@@ -7,7 +7,7 @@ const area = (rect) => {
 
 
 const higreturnherPaid = (e1, e2) => {
-   (e1.salary) > (e2.salary) 
+  return (e1.salary) > (e2.salary) 
 };
 
 const isSamePoint = (p1, p2) => {
