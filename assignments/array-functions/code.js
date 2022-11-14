@@ -1,4 +1,4 @@
 const countTens = (array) => {
-  return array.['10']
+  return array['10']
 } 
 
