@@ -3,7 +3,6 @@ const countTens = (array) => {
   } 
 
 
-const sum = (array) => 
 
 const n = {
 if (n % 2 === 0) {
