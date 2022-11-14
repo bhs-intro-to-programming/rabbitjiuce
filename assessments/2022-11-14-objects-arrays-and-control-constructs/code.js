@@ -6,11 +6,12 @@ const area = (rect) => {
 };
 
 
-
 const higherPaid = (e1, e2) => {
+  return 
 };
 
 const isSamePoint = (p1, p2) => {
+  return p1 === p2
 };
 
 const totalWithTip = (bill, tipPercentage) => {
