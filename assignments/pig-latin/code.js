@@ -32,6 +32,6 @@
 // Feel free to play around in the REPL to make sure you understand how this
 // operator works.
 
-const pigLatin = (word) => word.substring.('word'.search(/[aeiou]/))
+const pigLatin = (word) => word.substring.(0, 'word'.search(/[aeiou]/))
 
 let word = 'Word'
