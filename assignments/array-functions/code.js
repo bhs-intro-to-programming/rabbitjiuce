@@ -1,1 +1,1 @@
-const countTens = (array) => array.search(/[10]/
+const countTens = (array) => array.search(/[10]/)
