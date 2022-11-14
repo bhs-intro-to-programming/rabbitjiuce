@@ -32,5 +32,5 @@
 // Feel free to play around in the REPL to make sure you understand how this
 // operator works.
 
-const pigLatin = (word) => s.search(/[aeiou]/) 
-let word = 'lulu'
+const pigLatin = (word) => word.search(/[aeiou]/) 
+let word = 'Word'
