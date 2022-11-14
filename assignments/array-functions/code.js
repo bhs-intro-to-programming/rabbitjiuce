@@ -4,7 +4,7 @@ const countTens = (array) => {
 
 
 
-const n = {
+const n = (n) => {
 if (n % 2 === 0) {
   return true;
 }
