@@ -9,12 +9,15 @@ const area = (rect) => {
 const higreturnherPaid = (e1, e2) => {
   return (e1.salary) > (e2.salary) 
 };
+// i don't know how to get it to return the object name for this one 
+
 
 const isSamePoint = (p1, p2) => {
   return p1 === p2
 };
 
 const totalWithTip = (bill, tipPercentage) => {
+  return 
 };
 
 const isWinner = (player) => {
@@ -24,6 +27,7 @@ const updateWins = (players) => {
 };
 
 const bigWinners = (players) => {
+  return players.wins > 10 
 };
 
 const fillTimesTable = (table) => {
