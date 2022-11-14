@@ -4,8 +4,8 @@ const countTens = (array) => {
 
 
 
-const n = (n) => {
 if (n % 2 === 0) {
   return true;
 }
 
+let n = '15'
