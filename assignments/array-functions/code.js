@@ -1,1 +1,1 @@
-const countTens = (s) => s.('10')
+const countTens = (s) => s.'10'
