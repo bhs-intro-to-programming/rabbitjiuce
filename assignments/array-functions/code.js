@@ -1,1 +1,1 @@
-const countTens = (array) => array.count('10')
+const countTens = (array) => array('10')
