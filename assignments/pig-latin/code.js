@@ -33,3 +33,4 @@
 // operator works.
 
 const pigLatin = (word) => s.search(/[aeiou]/) 
+let word = 'lulu'
