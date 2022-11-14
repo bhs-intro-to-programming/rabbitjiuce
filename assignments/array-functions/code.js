@@ -5,9 +5,8 @@ const countTens = (array) => {
 
 const sum = (array) => 
 
-let n = {
+const n = {
 if (n % 2 === 0) {
   return true;
 }
 
-let n = 6
