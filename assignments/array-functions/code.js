@@ -1,1 +1,1 @@
-const countTens = ([]) => [].substring([].search(/[10]/))
+const countTens = (array) => array.substring(array.search(/[10]/))
