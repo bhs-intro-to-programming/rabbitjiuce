@@ -1,1 +1,1 @@
-const countTens = (array) => array.substring.(array.indexOf(10))
+const countTens = (s) => s.substring.(array.indexOf(10))
