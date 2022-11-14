@@ -1,1 +1,1 @@
-const 
+const countTens = (s) => s.indexOf('10')
