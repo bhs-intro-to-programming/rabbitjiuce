@@ -5,6 +5,8 @@ const area = (rect) => {
   (rect . width) * (rect . height)
 };
 
+
+
 const higherPaid = (e1, e2) => {
 };
 
