@@ -42,4 +42,7 @@ const advancedPigLatin = (word) => {
    word.substring(word.search(/[aeiou]/)) + word.substring(0, word.search(/[aeiou]/)) + 'ay'
 }
 }
+
+
+let o = 'hasksdf j' 
 o
