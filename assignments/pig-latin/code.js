@@ -41,3 +41,4 @@ const advancedPigLatin = (word) => {
 } else if (word.search(/[aeiou]/) != 0){
     word.substring(word.search(/[aeiou]/)) + word.substring(0, word.search(/[aeiou]/)) + 'ay'
 }
+}
