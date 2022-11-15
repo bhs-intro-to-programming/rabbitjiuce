@@ -45,4 +45,4 @@ const advancedPigLatin = (word) => {
 
 
 let o = 'hasksdf j' 
-o
+let 'ok' = 'ok.'
