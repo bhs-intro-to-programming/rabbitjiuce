@@ -17,11 +17,10 @@ const isSamePoint = (p1, p2) => {
 };
 
 const totalWithTip = (bill, tipPercentage) => {
-  let tip = bill.subtotal/100 * tipPercentage
+  let tip = bill.subtotal * tipPercentage
   let subtotal = bill.subtotal 
   let total = bill + tip 
-};
-//is that how you assign stuff to other stuff i forget 
+return { subtotal: subtotal, tip: tip, total: total };};
 
 
 const isWinner = (player) => {
