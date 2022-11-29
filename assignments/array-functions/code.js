@@ -34,3 +34,8 @@ const anyOverOneHundred = (array) => {
   }
   return false 
 }
+
+const pyramid = (array) => {
+  const idk = [];
+  for (let i = 0; i<array.length; i++)
+}
