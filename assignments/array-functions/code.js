@@ -23,4 +23,5 @@ const evens = (array) => {
         evens.push(array[i]);
       }
   }
+  return evens;
 }
