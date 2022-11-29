@@ -36,14 +36,14 @@ const anyOverOneHundred = (array) => {
 }
 
 //const pyramid = (array) => {
-  const idk = [];
-  for (let i = 1; i<array.length; i++) {
-    for (let j = 1; i<array.length; j++) {
-       idk.push[i]; 
-    } 
-  } 
-return idk; 
-}
+//  const idk = [];
+//  for (let i = 1; i<array.length; i++) {
+//    for (let j = 1; i<array.length; j++) {
+//       idk.push[i]; 
+//    } 
+//  } 
+//return idk; 
+//}
 
 const pyramid = (n) => {
   const p = [];
