@@ -32,4 +32,5 @@ const anyOverOneHundred = (array) => {
     }
   }
   return true 
+else return false 
 }
