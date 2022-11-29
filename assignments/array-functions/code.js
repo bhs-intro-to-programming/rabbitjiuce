@@ -43,4 +43,6 @@ const pyramid = (array) => {
     } 
   } 
 return idk; 
-}
+};
+
+
