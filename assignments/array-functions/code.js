@@ -1,4 +1,4 @@
-const countTens = (array) => array.search(/[10]/) 
-const sum = (array) => {
-  return array.substring(array.length)
+const countTens = (a) => a.search(/[10]/) 
+const sum = (a) => {
+  return a.substring(a.length)
 }
