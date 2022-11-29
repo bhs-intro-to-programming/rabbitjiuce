@@ -35,7 +35,7 @@ const anyOverOneHundred = (array) => {
   return false 
 }
 
-const pyramid = (array) => {
+//const pyramid = (array) => {
   const idk = [];
   for (let i = 1; i<array.length; i++) {
     for (let j = 1; i<array.length; j++) {
