@@ -39,7 +39,7 @@ const fillTimesTable = (table) => {
 };
 
 const sums = (n) => {
-  while thd
+  while n > 5
 };
 
 const rule110 = (cells) => {
