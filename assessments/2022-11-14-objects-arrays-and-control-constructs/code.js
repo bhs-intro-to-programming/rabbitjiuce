@@ -6,13 +6,24 @@ const area = (rect) => {
 };
 
 
-const higreturnherPaid = (e1, e2) => {
+//onst higreturnherPaid = (e1, e2) => {
+//  if (e1.salary > e2.salary) {
+//    return e1; {
+//   } else {
+//    return e2;
+//    }
+//  };
+
+
+
+ const higherPaid = (e1, e2) => {
   if (e1.salary > e2.salary) {
-    return e1; {
-   } else {
+    return e1;
+  } else {
     return e2;
-    }
-  };
+  }
+};
+
 // i don't know how to get it to return the object name for this one 
 
 
