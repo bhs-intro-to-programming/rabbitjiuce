@@ -6,25 +6,14 @@ const area = (rect) => {
 };
 
 
-//onst higreturnherPaid = (e1, e2) => {
-//  if (e1.salary > e2.salary) {
-//    return e1; {
-//   } else {
-//    return e2;
-//    }
-//  };
-
-
-
- const higherPaid = (e1, e2) => {
+const higherPaid = (e1, e2) => {
   if (e1.salary > e2.salary) {
-    return e1;
-  } else {
-    return e2;
-  }
+    return e1; 
+   } else {
+     return e2
+    }
 };
 
-// i don't know how to get it to return the object name for this one 
 
 
 const isSamePoint = (p1, p2) => {
