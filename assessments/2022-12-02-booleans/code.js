@@ -1,1 +1,1 @@
-const needHeavyCoat= (out, cold) = out && cold 
+const needHeavyCoat = (out, cold) => out && cold 
