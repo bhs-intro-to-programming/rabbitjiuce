@@ -1,0 +1,1 @@
+const needHeavyCoat= (out, cold) = out && cold 
