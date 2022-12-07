@@ -90,4 +90,13 @@ const firstOkay = (x) => {
     return Math.abs(x)
   }
 } 
-//i know it's not math.abs but i forgot the function for the closest whole number 
+//i know it's not math.abs but i forgot the function for the closest whole number, so i figured i would just use it instead 
+
+const timeToLeet = () => {
+  let numbers = Math.floor(Math.random() * 10000)
+  for (i=0; i<10,000; i++) {
+    if (numbers(i) === isLeet()) {
+      return numbers(i)
+    }
+  }
+}
