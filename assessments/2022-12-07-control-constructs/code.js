@@ -117,6 +117,5 @@ const threewayClassify = (aValue) => {
     } else {
       return recordNotOk
     }
-    }
   } 
 } 
