@@ -110,7 +110,7 @@ const classify = (aValue) => {
 
 const threewayClassify = (aValue) => { 
   if (isOk(aValue) === true) { 
-    return recordOk(aValue) 
+    log recordOk(aValue) 
   } else { 
     if (isMeh(aValue) === true) {
       return recordMeh 
