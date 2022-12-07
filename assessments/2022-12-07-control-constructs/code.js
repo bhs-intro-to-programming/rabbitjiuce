@@ -90,3 +90,4 @@ const firstOkay = (x) => {
     return Math.abs(x)
   }
 } 
+//i know it's not math.abs but i forgot the function for the closest whole number 
