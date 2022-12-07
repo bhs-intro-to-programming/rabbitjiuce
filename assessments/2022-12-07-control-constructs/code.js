@@ -127,3 +127,5 @@ const sumOfSquares = (x) => {
   }
   return squares
 }
+//i can't figure out how to make it work 
+
