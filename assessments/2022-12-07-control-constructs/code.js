@@ -129,3 +129,6 @@ const sumOfSquares = (x) => {
 }
 //i can't figure out how to make it work 
 
+const pairs = (x) => {
+  return pair(x)
+}
