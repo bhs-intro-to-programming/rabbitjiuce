@@ -86,6 +86,6 @@ const logIfOk = (a) => {
 }
 
 const firstOkay = (num) => {
-  let math.Abs(num) = x ;
+  let Math.abs(num) = x ;
   return isOk(x)
 } 
