@@ -79,10 +79,12 @@ const pair = (a, b) => {
 ////////////////////////////////////////////////////////////////////////
 // Write your code here ...
 
-const logIfOk = (variable) => { 
- if (variable.isOk  === true) { 
-   return console.log(variable);
+const logIfOk = (a) => { 
+ if (isOk(a)  === true) { 
+   return console.log(a);
  }
 }
 
-const firstOkay = 
+const firstOkay = (num) => {
+
+}
