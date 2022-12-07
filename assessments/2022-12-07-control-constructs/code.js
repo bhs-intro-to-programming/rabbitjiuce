@@ -94,7 +94,7 @@ const firstOkay = (x) => {
 
 const timeToLeet = () => {
   let numbers = Math.floor(Math.random() * 10000)
-  for (i=0; i<10,000; i++) {
+  for (let i=0; i<10,000; i++) {
     if (numbers(i) === isLeet()) {
       return numbers(i)
     }
