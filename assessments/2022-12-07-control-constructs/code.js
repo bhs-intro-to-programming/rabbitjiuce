@@ -78,3 +78,9 @@ const pair = (a, b) => {
 
 ////////////////////////////////////////////////////////////////////////
 // Write your code here ...
+
+const logIfOk (variable) => { 
+ if (variable.isOk  === true) { 
+   return console.log(variable);
+ }
+}
