@@ -133,3 +133,5 @@ const pairs = (x) => {
   return pair(x)
 }
 //what 
+
+//help i studied and still have no idea how any of this works 
