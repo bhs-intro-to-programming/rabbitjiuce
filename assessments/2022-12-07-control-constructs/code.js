@@ -84,3 +84,5 @@ const logIfOk = (variable) => {
    return console.log(variable);
  }
 }
+
+const firstOkay = 
