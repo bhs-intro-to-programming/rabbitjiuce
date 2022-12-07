@@ -125,4 +125,5 @@ const sumOfSquares = (num) => {
   for (let i=0; i<num; i++) {
     let squares = (num-i**2) + squares
   }
+  return squares
 }
