@@ -99,3 +99,12 @@ const timeToLeet = () => {
     }
   }
 }
+
+const classify = (aValue) => { 
+  if (isOk(aValue) === true) { 
+    return recordOk(aValue) 
+  } else { 
+    return recordNotOk(aValue)
+  } 
+} 
+
