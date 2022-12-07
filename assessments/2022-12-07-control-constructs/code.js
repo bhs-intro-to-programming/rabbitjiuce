@@ -123,7 +123,7 @@ const threewayClassify = (aValue) => {
 const sumOfSquares = (x) => {
   let squares = 0
   for (let i=0; i<x; i++) {
-    let (squares = x-i**2 + squares)
+    let squares = x-i**2 + squares
   }
   return squares
 }
