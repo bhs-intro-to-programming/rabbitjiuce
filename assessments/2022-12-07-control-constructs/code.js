@@ -120,10 +120,10 @@ const threewayClassify = (aValue) => {
   } 
 } 
 
-const sumOfSquares = (num) => {
+const sumOfSquares = (x) => {
   let squares = 0
-  for (let i=0; i<num; i++) {
-    let (squares = num-i**2 + squares)
+  for (let i=0; i<x; i++) {
+    let (squares = x-i**2 + squares)
   }
   return squares
 }
