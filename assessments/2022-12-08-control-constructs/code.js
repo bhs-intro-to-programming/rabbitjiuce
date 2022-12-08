@@ -21,4 +21,3 @@ const containsX = (s) => {
     return (s[i] === 'x') 
     }
   }
-}
