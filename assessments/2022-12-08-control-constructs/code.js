@@ -21,3 +21,9 @@ const containsX = (s) => {
   }
   return (s[i] === 'x')
 }
+
+const sumSquares = (n) => {
+  for (let i =0; i<n; i++) {
+    let sum = (n-i)**2 + sum 
+  }
+}
