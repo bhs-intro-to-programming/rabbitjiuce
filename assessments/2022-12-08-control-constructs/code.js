@@ -13,6 +13,6 @@ const countXs = (s) => {
 }
 
 const timesTable = (n) => {
-  emit 
+  //there isn't an emit function? or it's not visible, i guess, but it's returning as 'undefined'
 }
 
