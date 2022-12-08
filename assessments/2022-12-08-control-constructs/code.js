@@ -13,7 +13,6 @@ const countXs = (s) => {
 }
 
 const timesTable = (n) => {
-  let product = 0 
   for (let i=0; i<n; i++) {
     let product = ((n-i)**2) + product 
     return product 
