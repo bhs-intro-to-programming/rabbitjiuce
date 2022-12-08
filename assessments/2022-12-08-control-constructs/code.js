@@ -17,5 +17,7 @@ const timesTable = (n) => {
 }
 
 const containsX = (s) => {
-  
+  if (let i=0; i<s.length; i++) {
+    return (s[i] === 'x')
+  }
 }
