@@ -13,6 +13,6 @@ const countXs = (s) => {
 }
 
 const timesTable = (n) => {
-//  theres no emit function? 
+  emit 
 }
 
