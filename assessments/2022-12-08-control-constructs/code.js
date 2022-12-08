@@ -16,3 +16,8 @@ const timesTable = (n) => {
   //there isn't an emit function? or it's not visible, i guess, but it's returning as 'undefined'
 }
 
+const containsX = (s) => {
+  for (let i=0; i<s.length; i++) {
+    return (s[i]) === 'x'
+  }
+}
