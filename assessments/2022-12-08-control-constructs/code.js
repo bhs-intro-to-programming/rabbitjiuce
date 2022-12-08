@@ -11,3 +11,6 @@ const countXs = (s) => {
   }
   return count 
 }
+
+const timesTable = (n) => {
+}
