@@ -13,8 +13,5 @@ const countXs = (s) => {
 }
 
 const timesTable = (n) => {
-  for (let i=0; i<n; i++) {
-    let (product = ((n-i)**2) + product) 
-    return product 
-  }
+//  theres no emit function? 
 }
