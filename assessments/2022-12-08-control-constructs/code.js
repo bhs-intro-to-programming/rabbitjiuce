@@ -25,6 +25,6 @@ const containsX = (s) => {
 const sumSquares = (n) => {
   let sum = 0 
   for (let i =0; i<n; i++) {
-    const sum = (n-i)**2 + sum
+    let sum = (n-i)**2 + sum
   }
 }
