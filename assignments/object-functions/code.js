@@ -29,4 +29,4 @@ const summarizeBooks = ([myArray]) => {
 
 
 
-const x = [boo, gah, slay]
+const x = ['boo', 'gah', 'slay']
