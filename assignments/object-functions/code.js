@@ -15,7 +15,11 @@ return Math.sqrt((p2.x - p1.x) ** 2 + (p2.y - p1.y) ** 2)
 
 const midpoint =(p1, p2) => {
   return {'x' : (p1.x + p2.x)/2, 'y' : (p1.y + p2.y)/2} 
-  }
+}
+
+const sumSalaries = (x) => {
+  for (let i=0; i<)
+}
 
 const summarizeBooks = ([myArray]) => {
   return myArray.title + myArray.pages 
@@ -25,15 +29,4 @@ const summarizeBooks = ([myArray]) => {
 
 
 
-
-
-
-
-//indexOf 
-//search is kinda dangerous ig 
-
-
-
-//square root of xaxis distance squared + yaxis distance squared
-
-//{ x: 10, y: 20 }
+x= [boo, gah, slay]
