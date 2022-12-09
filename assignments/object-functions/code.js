@@ -18,7 +18,7 @@ const midpoint =(p1, p2) => {
 }
 
 const sumSalaries = (x) => {
-  for (let i=0; i<s.length; i++) {
+  for (let i=0; i<x.length; i++) {
     const salaries = x.substring[i].salary 
     return salaries
   }
