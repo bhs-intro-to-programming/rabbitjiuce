@@ -21,7 +21,7 @@ const allTheSame = ([a, b, c]) => {
 }
 
 const extractColumn = (array, num) => {
-//  return [array(0.num), array(1,num), array,2, num]
+  return [array(0.num), array(1,num), array,2, num]
 }
 //aish you get the idea, i just don't know the right way to get one element
 //const array = 
@@ -32,7 +32,7 @@ const extractColumn = (array, num) => {
 //   ]
 
 const recordMove = (array, move) => {
-
+  return array.length = move
 }
 
 const array2 = ['v', 'h', 'y']
