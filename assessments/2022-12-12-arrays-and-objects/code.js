@@ -3,5 +3,5 @@ const makeRow = () => {
 }
 
 makeBoard = () => {
-  return [makeRow, makeRow, makeRow]
+  return [[' ', ' ', ' '], [' ', ' ', ' '], [' ', ' ', ' ']]
 }
