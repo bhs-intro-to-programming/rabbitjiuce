@@ -3,5 +3,5 @@ const makeRow = () => {
 }
 
 const makeBoard = () => {
-  return (makeRow*3) 
+  return 
 }
