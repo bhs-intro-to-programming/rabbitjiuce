@@ -32,7 +32,7 @@ const extractColumn = (array, num) => {
 //   ]
 
 const recordMove = (array, move) => {
-  return (const array.length = move)
+  return (array.length = move)
 }
 
 const array2 = ['v', 'h', 'y']
