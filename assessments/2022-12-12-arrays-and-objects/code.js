@@ -17,5 +17,5 @@ const placeMark = (array, obj) => {
 }
 
 const allTheSame = ([a, b, c]) => {
-  return a === b === c
+  return a === b &&  c
 }
