@@ -21,7 +21,7 @@ const allTheSame = ([a, b, c]) => {
 }
 
 const extractColumn = (array, num) => {
-  return [array.0,num, array.1,num, array.2, num]
+  return [array,0,num, array,1,num, array,2, num]
 }
 
 const array = 
