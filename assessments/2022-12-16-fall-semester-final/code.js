@@ -127,5 +127,7 @@ const presentsBudget = (nFriend, avPrice) => nFriend*avPrice
 const wrappingCombos = (numPaper, numRibbons, numBows) => numPaper * numRibbons * numBows 
 
 const biggestNumber = (digits) => {
-  return '9'*digits
+  return nine * digits
 }
+
+let nine ='9'
