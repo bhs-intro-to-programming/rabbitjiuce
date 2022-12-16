@@ -129,7 +129,7 @@ const wrappingCombos = (numPaper, numRibbons, numBows) => numPaper * numRibbons 
 const biggestNumber = (digits) => {
   let nines = 0
   for (let i=0; i<digits; i++) {
-    nines = '9' + '9'
+    nines = nines + '9'
   }
   return nines;
 }
