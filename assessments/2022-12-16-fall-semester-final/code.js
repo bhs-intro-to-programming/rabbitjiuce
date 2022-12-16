@@ -111,13 +111,13 @@ const leftOut = (choc, ppl) => {
     return 0 
     } else if ((ppl-choc) > 0) {
       return ppl-choc
-    }
   }
+}
 
   const probabilityAllHeads = (n) => {
     return (.5**n) 
   }
 
   const futureHour = (current, eventTime) => {
-    return 
-  }
+    return (current+eventTime)
+}
