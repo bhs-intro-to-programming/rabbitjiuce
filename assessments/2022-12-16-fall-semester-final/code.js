@@ -179,7 +179,10 @@ const upToX = (s) => {
   return s.substring(0, (s.indexOf('x')))
 }
 
-const paire = (s1, s2) => s1 + 'and' + s2
+const paire = (s1, s2) => s1 + ' and ' + s2
+
+const pair = (s1, s2) => s1 + ' and ' + s2
+
 
 const slug = (s, s2, s3) => {
   return (s + '-' + s2 + '-' + s3).toLowerCase()
