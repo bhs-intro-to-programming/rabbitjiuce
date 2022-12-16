@@ -23,7 +23,7 @@ const isWinner = (obj) => obj.score > 100
 
 const bigWinners = (array) => {
   let array2 = []
-  for (let i=0; i<.arraylength; i++) {
+  for (let i=0; i<array.length; i++) {
     if (array[i].score > 20)
     return array2.push(array[i])
   }
