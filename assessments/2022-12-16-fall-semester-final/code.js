@@ -203,4 +203,3 @@ const area = (w, h) => w * h
 
 const isWinner = (obj) => obj.score > 100 
 
-const 
