@@ -166,3 +166,7 @@ const aFartherThanB = (num, num2, num3) => (num-num3) > (num2-num3)
 const upDown = (s) => {
   return s.toUpperCase() + s.toLowerCase()
 }
+
+const randomCharacter = (s) => {
+  return rand(s)
+}
