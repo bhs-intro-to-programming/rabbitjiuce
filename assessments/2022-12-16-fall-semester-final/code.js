@@ -117,3 +117,7 @@ const leftOut = (choc, ppl) => {
   const probabilityAllHeads = (n) => {
     return (.5**n) 
   }
+
+  const futureHour = (current, eventTime) => {
+    return 
+  }
