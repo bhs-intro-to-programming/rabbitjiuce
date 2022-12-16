@@ -114,10 +114,12 @@ const leftOut = (choc, ppl) => {
   }
 }
 
-  const probabilityAllHeads = (n) => {
-    return (.5**n) 
-  }
-
-  const futureHour = (current, eventTime) => {
-    return (current+eventTime)%24
+const probabilityAllHeads = (n) => {
+ return (.5**n)
 }
+
+const futureHour = (current, eventTime) => {
+  return (current+eventTime)%24
+}
+
+const presentsBudget = (nFriend, avPrice) => nFriend*avPrice
