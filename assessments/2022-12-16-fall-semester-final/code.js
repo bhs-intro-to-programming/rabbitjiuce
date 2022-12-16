@@ -167,4 +167,4 @@ const upDown = (s) => {
   return s.toUpperCase() + s.toLowerCase()
 }
 
-const randomCharacter = (s) => rand.s
+const randomCharacter = (s) => rand(s)
