@@ -179,7 +179,7 @@ const slug = (s, s2, s3) => {
   return (s + '-' + s2 + '-' + s3).toLowerCase()
 }
 
-const firstOk = (num) => 
+//const firstOk = (num) => 
 
 const logIfOk = (a) => {
   if (isOk(a) === true)
