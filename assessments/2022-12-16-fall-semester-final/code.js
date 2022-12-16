@@ -124,4 +124,4 @@ const futureHour = (current, eventTime) => {
 
 const presentsBudget = (nFriend, avPrice) => nFriend*avPrice
 
-const 
+const wrappingCombos = (numPaper, numRibbons, numBows) => numPaper * numRibbons * numBows 
