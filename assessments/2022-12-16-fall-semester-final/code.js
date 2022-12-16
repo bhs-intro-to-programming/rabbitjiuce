@@ -190,3 +190,5 @@ const countXs = (s) => {
   }
 return xs
 }
+
+const allTheSame = ([a, b, c]) => (a === b) && (a === c)
