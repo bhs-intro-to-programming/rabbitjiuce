@@ -101,3 +101,7 @@ const pair = (a, b) => {
 const chocolatesPerPerson = (choc, ppl) => {
   return Math.floor(choc/ppl)
 }
+
+const extraChocolates = (choc, ppl) => {
+  return choc%ppl
+}
