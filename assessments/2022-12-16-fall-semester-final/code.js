@@ -115,5 +115,5 @@ const leftOut = (choc, ppl) => {
   }
 
   const probabilityAllHeads = (n) => {
-    return (.5***n) 
+    return (.5**n) 
   }
