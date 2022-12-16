@@ -218,7 +218,7 @@ const area = (w, h) => w * h
 const higherPaid = (ob, obj) => {
   if (ob.salary > obj.salary) 
   return ob 
-} else { 
+  else { 
   return obj
 }
 }
