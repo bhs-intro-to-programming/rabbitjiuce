@@ -215,5 +215,13 @@ const isSamePoint = (p1, p2) => {
 
 const area = (w, h) => w * h
 
+const higherPaid = (ob, obj) => {
+  if (ob.salary > obj.salary) 
+  return ob 
+} else { 
+  return obj
+}
+}
+
 const isWinner = (obj) => obj.score > 100 
 
