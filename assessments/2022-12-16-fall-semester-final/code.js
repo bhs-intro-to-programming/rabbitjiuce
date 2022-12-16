@@ -163,6 +163,8 @@ const canGoToProm = (senior, inviteSen, promEx) => (senior || inviteSen) && !pro
 
 const aFartherThanB = (num, num2, num3) => (num - num3) > (num2 - num3)
 
+const swapFrontAndBack = (s) => s.substring(s.length/2) + s.substring(0, s.length/2)
+
 const upDown = (s) => {
   return s.toUpperCase() + s.toLowerCase()
 }
@@ -199,4 +201,6 @@ const isSamePoint = (p1, p2) => {
 
 const area = (w, h) => w * h
 
-const isWinner = (obj) => obj.score > 100
+const isWinner = (obj) => obj.score > 100 
+
+const 
