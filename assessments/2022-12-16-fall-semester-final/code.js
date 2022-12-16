@@ -139,3 +139,5 @@ const itemsLeftOver=(ppl, items) => {
 }
 
 const areaOfCircle = (r) => Math.PI * (r**2)
+
+const volumeOfCube = (a) => a**3
