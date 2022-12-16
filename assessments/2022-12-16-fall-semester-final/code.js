@@ -144,3 +144,7 @@ const volumeOfCube = (a) => a**3
 //if this is wrong it's because google lied to me 
 
 const populationGrowth = (num1, numDay) => numDay * num1
+
+const earnedRunaverage = (eRuns, pIn) => {
+  return (eRuns/pIn) * 9
+}
