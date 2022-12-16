@@ -99,5 +99,5 @@ const pair = (a, b) => {
 
 
 const chocolatesPerPerson = (choc, ppl) => {
-  return math.Floor(choc/ppl)
+  return Math.floor(choc/ppl)
 }
