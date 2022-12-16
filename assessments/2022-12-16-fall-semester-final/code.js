@@ -157,3 +157,6 @@ const fireAlarm = (pulled, smoke, drill) => pulled || smoke || drill
 
 const canBePresident = (age, naturalBorn, lived) => (Math.floor(age))>34 && naturalBorn && (Math.floor(lived))>13 
 
+const needSunScreen = (beach, ski) => beach || skiing 
+
+const canGoToProm = (senior, inviteSen, promEx) => (senior || inviteSen) && !promEx
