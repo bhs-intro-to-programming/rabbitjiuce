@@ -153,4 +153,7 @@ const valueOfJewels = (numD, numE, valD, valE) => (valE * numE) + (valD * numD)
 
 const payWithOverTime = (numWorked, normalRate, overRate) => ((numWorked-8)*overRate) + (normalRate*8) 
 
-const firstClassPostage = ( )
+const fireAlarm = (pulled, smoke, drill) => pulled || smoke || drill 
+
+const canBePresident = (age, naturalBorn, lived) => age>34 && naturalBorn && lived>13 
+
