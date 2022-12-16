@@ -187,7 +187,7 @@ const logIfOk = (a) => {
 const classify = (v) => {
   if (isOk(v) === true) 
   recordOk(v) 
-} else { 
+  else { 
   recordNotOk(v)
 }
 }
