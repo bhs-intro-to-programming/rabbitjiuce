@@ -99,69 +99,69 @@ const pair = (a, b) => {
 
 
 const chocolatesPerPerson = (choc, ppl) => {
-  return Math.floor(choc/ppl)
+  return Math.floor(choc / ppl)
 }
 
 const extraChocolates = (choc, ppl) => {
-  return choc%ppl
+  return choc % ppl
 }
 
 const leftOut = (choc, ppl) => {
-  if ((ppl-choc) < 0) {
-    return 0 
-    } else if ((ppl-choc) > 0) {
-      return ppl-choc
+  if ((ppl - choc) < 0) {
+    return 0
+  } else if ((ppl - choc) > 0) {
+    return ppl - choc
   }
 }
 
 const probabilityAllHeads = (n) => {
- return (.5**n)
+  return (.5 ** n)
 }
 
 const futureHour = (current, eventTime) => {
-  return (current+eventTime)%24
+  return (current + eventTime) % 24
 }
 
-const presentsBudget = (nFriend, avPrice) => nFriend*avPrice
+const presentsBudget = (nFriend, avPrice) => nFriend * avPrice
 
-const wrappingCombos = (numPaper, numRibbons, numBows) => numPaper * numRibbons * numBows 
+const wrappingCombos = (numPaper, numRibbons, numBows) => numPaper * numRibbons * numBows
 
 const biggestNumber = (digits) => {
   let nines = ''
-  for (let i=0; i<digits; i++) {
+  for (let i = 0; i < digits; i++) {
     nines = nines + '9'
   }
   return nines;
 }
 
-const itemsLeftOver=(ppl, items) => {
-  return items - (items%ppl)
+const itemsLeftOver = (ppl, items) => {
+  return items - (items % ppl)
 }
 
-const areaOfCircle = (r) => Math.PI * (r**2)
+const areaOfCircle = (r) => Math.PI * (r ** 2)
 
-const volumeOfCube = (a) => a**3
+const volumeOfCube = (a) => a ** 3
 //if this is wrong it's because google lied to me 
 
 const populationGrowth = (num1, numDay) => numDay * num1
 
 const earnedRunaverage = (eRuns, pIn) => {
-  return (eRuns/pIn) * 9
+  return (eRuns / pIn) * 9
 }
 
-const valueOfJewels = (numD, numE, valD, valE) => (valE * numE) + (valD * numD) 
+const valueOfJewels = (numD, numE, valD, valE) => (valE * numE) + (valD * numD)
 
-const payWithOverTime = (numWorked, normalRate, overRate) => ((numWorked-8)*overRate) + (normalRate*8) 
+const payWithOverTime = (numWorked, normalRate, overRate) => ((numWorked - 8) * overRate) + (normalRate * 8)
 
-const fireAlarm = (pulled, smoke, drill) => pulled || smoke || drill 
+const fireAlarm = (pulled, smoke, drill) => pulled || smoke || drill
 
-const canBePresident = (age, naturalBorn, lived) => (Math.floor(age))>34 && naturalBorn && (Math.floor(lived))>13 
+const canBePresident = (age, naturalBorn, lived) => (Math.floor(age)) > 34 && naturalBorn && (Math.floor(lived)) > 13
 
-const needSunScreen = (beach, ski) => beach || skiing 
+const needSunScreen = (beach, ski) => beach || skiing
 
 const canGoToProm = (senior, inviteSen, promEx) => (senior || inviteSen) && !promEx
 
-const aFartherThanB = (num, num2, num3) => (num-num3) > (num2-num3)
+const aFartherThanB = (num, num2, num3) => (num - num3) > (num2 - num3)
 
 const upDown = (s) => {
   return s.toUpperCase() + s.toLowerCase()
@@ -170,7 +170,7 @@ const upDown = (s) => {
 const isAllUpperCase = (s) => s.toUpperCase() === s
 
 const upToX = (s) => {
-  return s.substring(0,(s.indexOf('x')))
+  return s.substring(0, (s.indexOf('x')))
 }
 
 const slug = (s, s2, s3) => {
@@ -178,17 +178,21 @@ const slug = (s, s2, s3) => {
 }
 
 const logIfOk = (a) => {
-  if (isOk(a) === true) 
-  log (a)
+  if (isOk(a) === true)
+    log(a)
 }
 
 const countXs = (s) => {
   let xs = 0;
-  for (let i=0; i<s.length; i++) {
-    if (s[i] === 'x') 
-    xs++
+  for (let i = 0; i < s.length; i++) {
+    if (s[i] === 'x')
+      xs++
   }
-return xs
+  return xs
 }
 
 const allTheSame = ([a, b, c]) => (a === b) && (a === c)
+
+const isSamePink = (p1, p2) => {
+  return (p1.x === p2.x) && (p1.y === p2.y)
+}
