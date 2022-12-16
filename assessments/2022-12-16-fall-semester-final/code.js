@@ -113,3 +113,7 @@ const leftOut = (choc, ppl) => {
       return ppl-choc
     }
   }
+
+  const probabilityAllHeads = (n) => {
+    return (.5***n) 
+  }
