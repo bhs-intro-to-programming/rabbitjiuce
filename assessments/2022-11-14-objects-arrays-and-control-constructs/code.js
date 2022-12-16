@@ -20,3 +20,5 @@ const totalWithTip = (obj, num) => {
 //i don't remember how to assign things to objects 
 
 const isWinner = (obj) => obj.score > 100
+
+const urMom.score = 8
