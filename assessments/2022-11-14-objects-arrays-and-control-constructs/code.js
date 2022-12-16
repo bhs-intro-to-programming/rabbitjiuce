@@ -10,3 +10,8 @@ const higherPaid = (obj, obj2) => {
 const isSamePoint = (obj, obj2) => {
   return (obj.x === obj2.x) && (obj.y === obj2.y)
 }
+
+const totalWithTip = (obj, num) => {
+  let tip = obj.subtotal ** num 
+  return obj.subtotal 
+}
