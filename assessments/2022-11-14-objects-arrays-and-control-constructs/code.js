@@ -21,4 +21,10 @@ const totalWithTip = (obj, num) => {
 
 const isWinner = (obj) => obj.score > 100
 
-const urMom.score = 8
+const bigWinners = (array) => {
+  let array2 = []
+  for (let i=0; i<.arraylength; i++) {
+    if (array[i].score > 20)
+    return array2.push(array[i])
+  }
+}
