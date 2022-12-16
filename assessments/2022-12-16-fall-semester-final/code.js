@@ -193,6 +193,7 @@ const countXs = (s) => {
 
 const allTheSame = ([a, b, c]) => (a === b) && (a === c)
 
-const isSamePink = (p1, p2) => {
+const isSamePoint = (p1, p2) => {
   return (p1.x === p2.x) && (p1.y === p2.y)
-}
+} 
+
