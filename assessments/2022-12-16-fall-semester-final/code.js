@@ -163,6 +163,10 @@ const canGoToProm = (senior, inviteSen, promEx) => (senior || inviteSen) && !pro
 
 const aFartherThanB = (num, num2, num3) => (num - num3) > (num2 - num3)
 
+const firstFewEveryOther = (s) => {
+  return s.substring[0] + s.substring[2] + s.substring[4]
+}
+
 const swapFrontAndBack = (s) => s.substring(s.length/2) + s.substring(0, s.length/2)
 
 const upDown = (s) => {
