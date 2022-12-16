@@ -17,3 +17,4 @@ const totalWithTip = (obj, num) => {
   let total = subtotal + tip 
   let newObj = push(subtotal) && push(tip) && push(total)
 }
+//i don't remember how to assign things to objects 
