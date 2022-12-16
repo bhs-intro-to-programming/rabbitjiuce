@@ -143,4 +143,4 @@ const areaOfCircle = (r) => Math.PI * (r**2)
 const volumeOfCube = (a) => a**3
 //if this is wrong it's because google lied to me 
 
-populationGrowth = (num1, numDay) => num1 + (num1*numDay)
+const populationGrowth = (num1, numDay) => numDay * num1
