@@ -150,3 +150,7 @@ const earnedRunaverage = (eRuns, pIn) => {
 }
 
 const valueOfJewels = (numD, numE, valD, valE) => (valE * numE) + (valD * numD) 
+
+const payWithOverTime = (numWorked, normalRate, overRate) => ((numWorked-8)*overRate) + (normalRate*8) 
+
+const firstClassPostage = ( )
