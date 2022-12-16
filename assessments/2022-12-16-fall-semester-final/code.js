@@ -174,5 +174,5 @@ const upToX = (s) => {
 }
 
 const slug = (s, s2, s3) => {
-  return s + '-' + s2 + '-' + s3
+  return (s + '-' + s2 + '-' + s3).toLowerCase()
 }
