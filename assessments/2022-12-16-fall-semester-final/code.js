@@ -148,3 +148,5 @@ const populationGrowth = (num1, numDay) => numDay * num1
 const earnedRunaverage = (eRuns, pIn) => {
   return (eRuns/pIn) * 9
 }
+
+const valueOfJewels = (numD, numE, valD, valE) => (valE * numE) + (valD * numD) 
