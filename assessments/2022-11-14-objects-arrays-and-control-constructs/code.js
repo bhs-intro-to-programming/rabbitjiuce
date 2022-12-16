@@ -13,5 +13,6 @@ const isSamePoint = (obj, obj2) => {
 
 const totalWithTip = (obj, num) => {
   let tip = obj.subtotal ** num 
-  return obj.subtotal 
+  let subtotal = obj.subtotal 
+  let total = subtotal + tip 
 }
