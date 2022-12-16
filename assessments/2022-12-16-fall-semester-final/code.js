@@ -181,3 +181,12 @@ const logIfOk = (a) => {
   if (isOk(a) === true) 
   log (a)
 }
+
+const countXs = (s) => {
+  let xs = 0;
+  for (let i=0; i<s.length; i++) {
+    if (s[i] === 'x') 
+    xs++
+  }
+return xs
+}
