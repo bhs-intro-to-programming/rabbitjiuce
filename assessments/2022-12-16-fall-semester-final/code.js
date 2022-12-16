@@ -105,3 +105,12 @@ const chocolatesPerPerson = (choc, ppl) => {
 const extraChocolates = (choc, ppl) => {
   return choc%ppl
 }
+
+const leftOut = (choc, ppl) => {
+  if (ppl-choc) < 0 {
+    return 0 
+    else if (ppl-choc) > 0 {
+      return ppl-choc
+    }
+  }
+}
