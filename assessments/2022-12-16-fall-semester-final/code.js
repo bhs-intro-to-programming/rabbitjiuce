@@ -160,3 +160,9 @@ const canBePresident = (age, naturalBorn, lived) => (Math.floor(age))>34 && natu
 const needSunScreen = (beach, ski) => beach || skiing 
 
 const canGoToProm = (senior, inviteSen, promEx) => (senior || inviteSen) && !promEx
+
+const aFartherThanB = (num, num2, num3) => (num-num3) > (num2-num3)
+
+const upDown = (s) => {
+  return s.toUpperCase() + s.toLowerCase()
+}
