@@ -137,3 +137,5 @@ const biggestNumber = (digits) => {
 const itemsLeftOver=(ppl, items) => {
   return items - (items%ppl)
 }
+
+const areaOfCircle = (r) => Math.PI * (r**2)
