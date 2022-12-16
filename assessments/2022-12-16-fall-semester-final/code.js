@@ -119,5 +119,5 @@ const leftOut = (choc, ppl) => {
   }
 
   const futureHour = (current, eventTime) => {
-    return (current+eventTime)
+    return (current+eventTime)%24
 }
