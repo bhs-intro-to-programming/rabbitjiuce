@@ -113,4 +113,3 @@ const leftOut = (choc, ppl) => {
       return ppl-choc
     }
   }
-}
