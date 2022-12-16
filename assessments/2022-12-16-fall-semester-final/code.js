@@ -134,3 +134,6 @@ const biggestNumber = (digits) => {
   return nines;
 }
 
+const itemsLeftOver=(ppl, items) => {
+  return items - (items%ppl)
+}
