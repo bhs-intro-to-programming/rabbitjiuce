@@ -168,3 +168,7 @@ const upDown = (s) => {
 }
 
 const isAllUpperCase = (s) => s.toUpperCase() === s
+
+const upToX = (s) => {
+  return s.substring(0,(s.indexOf('x')))
+}
