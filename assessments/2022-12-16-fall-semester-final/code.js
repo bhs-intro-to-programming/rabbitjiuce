@@ -107,7 +107,7 @@ const extraChocolates = (choc, ppl) => {
 }
 
 const leftOut = (choc, ppl) => {
-  if (ppl-choc) < 0 {
+  if ((ppl-choc) < 0) {
     return 0 
     else if (ppl-choc) > 0 {
       return ppl-choc
