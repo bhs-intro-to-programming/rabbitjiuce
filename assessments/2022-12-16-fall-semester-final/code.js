@@ -96,3 +96,8 @@ const pair = (a, b) => {
 
 ////////////////////////////////////////////////////////////////////////
 // Write your code here ...
+
+
+const chocolatesPerPerson = (choc, ppl) => {
+  return math.Floor(choc/ppl)
+}
