@@ -224,4 +224,3 @@ const higherPaid = (ob, obj) => {
 }
 
 const isWinner = (obj) => obj.score > 100 
-
