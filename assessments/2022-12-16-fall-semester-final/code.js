@@ -176,3 +176,8 @@ const upToX = (s) => {
 const slug = (s, s2, s3) => {
   return (s + '-' + s2 + '-' + s3).toLowerCase()
 }
+
+const logIfOk = (a) => {
+  if (isOk(a) === true) 
+  log (a)
+}
