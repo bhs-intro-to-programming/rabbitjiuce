@@ -18,3 +18,5 @@ const totalWithTip = (obj, num) => {
   let newObj = push(subtotal) && push(tip) && push(total)
 }
 //i don't remember how to assign things to objects 
+
+const isWinner = (obj) => obj.score < 100
