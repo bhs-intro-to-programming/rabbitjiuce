@@ -1,0 +1,1 @@
+const area = (obj) => obj.width ** obj.height 
