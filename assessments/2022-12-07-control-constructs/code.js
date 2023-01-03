@@ -78,3 +78,60 @@ const pair = (a, b) => {
 
 ////////////////////////////////////////////////////////////////////////
 // Write your code here ...
+
+const logIfOk = (a) => { 
+ if (isOk(a)  === true) { 
+   return console.log(a);
+ }
+}
+
+const firstOkay = (x) => {
+  if (isOk(x)) { 
+    return Math.abs(x)
+  }
+} 
+//i know it's not math.abs but i forgot the function for the closest whole number, so i figured i would just use it instead 
+
+const timeToLeet = () => {
+  for (let i = 0; i < 10000; i++) {
+    if (random10k(i) === isLeet()) {
+      return random10k(i)
+    }
+  }
+}
+
+const classify = (aValue) => { 
+  if (isOk(aValue) === true) { 
+    return recordOk(aValue) 
+  } else { 
+    return recordNotOk(aValue)
+  } 
+} 
+
+const threewayClassify = (aValue) => { 
+  if (isOk(aValue) === true) { 
+     recordOk(aValue) 
+  } else { 
+    if (isMeh(aValue) === true) {
+       recordMeh 
+    } else {
+       recordNotOk
+    }
+  } 
+} 
+
+const sumOfSquares = (x) => {
+  let squares = 0
+  for (let i=0; i<x; i++) {
+    let squares = x-i**2 + squares
+  }
+  return squares
+}
+//i can't figure out how to make it work 
+
+const pairs = (x) => {
+  return pair(x)
+}
+//what 
+
+//help i studied and still have no idea how any of this works 
